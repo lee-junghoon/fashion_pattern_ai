@@ -12,8 +12,32 @@ ANNOTATION_FILE = "annotation.json"
 BOX_COLORS = ["red", "blue", "green", "orange", "purple", "cyan", "magenta"]
 color_index = 0
 
-CATEGORY_MAPPING = {"checked": 1, "solid": 2, "stripe": 3, "dotted": 4, "floral": 5, "animal": 6, "paisley": 7, "printed": 8 }  # category_id 매핑 (COCO 포맷용)
-current_category = "checked"  # 기본 카테고리
+CATEGORY_MAPPING = {
+    "checked": 1, 
+    "solid": 2, 
+    "stripe": 3, 
+    "dotted": 4, 
+    "floral": 5, 
+    "animal": 6, 
+    "paisley": 7, 
+    "printed": 8,
+    "camouflage": 9,
+    "text": 10,
+    "logo": 11,
+    "pocket": 12
+}  # category_id 매핑 (COCO 포맷용)
+KEY_TO_CATEGORY = {v: k for k, v in CATEGORY_MAPPING.items()}
+current_category = "checked"  # 기본 패턴
+
+# 패턴 숫자키 입력 selection
+def select_category_by_key(event):
+    key = event.char
+    if key.isdigit():
+        num = int(key)
+        if num in KEY_TO_CATEGORY:
+            category_var.set(KEY_TO_CATEGORY[num])
+            update_category_highlight()
+
 
 def load_config():
     global current_image_index
@@ -45,10 +69,10 @@ config = load_config()
 
 root = tk.Tk()
 root.title("Bounding Box Drawer")
-root.geometry("1000x600")
+root.geometry("1000x800")
 root.protocol("WM_DELETE_WINDOW", on_closing)
 
-left_frame = tk.Frame(root, width=400, height=600, bg="lightgray", padx=10, pady=10)
+left_frame = tk.Frame(root, width=400, height=800, bg="lightgray", padx=10, pady=10)
 left_frame.pack(side="left", fill="both")
 right_frame = tk.Frame(root, width=600, height=600, bg="white")
 right_frame.pack(side="right", fill="both", expand=True)
@@ -97,6 +121,7 @@ def show_help():
         "- Ctrl + Z : 바운딩 박스 실행 취소\n"
         "- Ctrl + Backspace : 이전 이미지\n\n"
         "Tip:\n"
+        "- 숫자키(1~8)로도 패턴 선택 가능합니다.\n"
         "- Save To 경로에 300x300으로 리사이즈된 이미지가 저장됩니다\n"
         "- 라벨링 정보는 COCO포맷으로 annotation.json 파일에 저장 됩니다.\n"
     )
@@ -109,29 +134,175 @@ exit_button.pack(side="left", expand=True, fill="x", padx=(5, 0))
 # Next/Back 버튼 추가
 nav_frame = tk.Frame(left_frame, bg="lightgray")
 nav_frame.pack(pady=10)
-save_anno_button = tk.Button(nav_frame, text="Save and Next Image (Ctrl + s)", command=lambda: save_annotations())
-save_anno_button.pack(pady=5)
-next_button = tk.Button(nav_frame, text="Skip and Next Image (Ctrl + x)", command=lambda: navigate_image(1))
-next_button.pack(padx=5)
-back_button = tk.Button(nav_frame, text="Back Image (Ctrl + Backspace)", command=lambda: navigate_image(-1))
-back_button.pack(padx=5)
-undo_button = tk.Button(nav_frame, text="Undo (Ctrl + z)", command=lambda: undo_bounding_box())
-undo_button.pack(pady=5)
+# 첫 줄 프레임
+button_frame1 = tk.Frame(nav_frame, bg="lightgray")
+button_frame1.pack(pady=5, fill="x")
+
+save_anno_button = tk.Button(button_frame1, text="Save and Next (Ctrl+S)", command=lambda: save_annotations())
+save_anno_button.pack(side="left", expand=True, fill="x", padx=5)
+next_button = tk.Button(button_frame1, text="Skip and Next (Ctrl+X)", command=lambda: navigate_image(1))
+next_button.pack(side="left", expand=True, fill="x", padx=5)
+
+# 둘째 줄 버튼튼
+button_frame2 = tk.Frame(nav_frame, bg="lightgray")
+button_frame2.pack(pady=5, fill="x")
+
+back_button = tk.Button(button_frame2, text="Back Image (Ctrl+Backspace)", command=lambda: navigate_image(-1))
+back_button.pack(side="left", expand=True, fill="x", padx=5)
+
+undo_button = tk.Button(button_frame2, text="Undo (Ctrl+Z)", command=lambda: undo_bounding_box())
+undo_button.pack(side="left", expand=True, fill="x", padx=5)
+
+# 프로그래스 라벨
+progress_label = tk.Label(left_frame, text="Progress: 0 / 0", bg="lightgray", font=("Arial", 10))
+progress_label.pack(pady=5)
+
+# 검색, 삭제 영역
+previous_image_index = None # 작업중이던 이미지 인덱스
+def load_bounding_from_annotation(image_id):
+    global bounding_boxes
+    bounding_boxes.clear()
+    
+    if not os.path.exists(ANNOTATION_FILE):
+        return
+
+    with open(ANNOTATION_FILE, "r") as f:
+        data = json.load(f)
+
+    anns = [ann for ann in data["annotations"] if ann["image_id"] == image_id]
+    for ann in anns:
+        x, y, w, h = ann["bbox"]
+        rx1 = x / 300
+        ry1 = y / 300
+        rx2 = (x + w) / 300
+        ry2 = (y + h) / 300
+        category = [k for k, v in CATEGORY_MAPPING.items() if v == ann["category_id"]][0]
+        color = BOX_COLORS[len(bounding_boxes) % len(BOX_COLORS)]
+        bounding_boxes.append((rx1, ry1, rx2, ry2, color, category))
+        log_annotation(rx1, ry1, rx2, ry2, category)
+
+    update_image()
+
+
+def search_annotation():
+    global previous_image_index
+    filename = search_entry.get().strip()
+    if not filename:
+        messagebox.showwarning("검색", "파일명을 입력하세요.")
+        return
+
+    if not os.path.exists(ANNOTATION_FILE):
+        messagebox.showinfo("검색", "annotation.json이 없습니다.")
+        return
+
+    with open(ANNOTATION_FILE, "r") as f:
+        data = json.load(f)
+
+    found = False
+    for img in data["images"]:
+        if img["file_name"] == filename:
+            found = True
+            break
+
+    if not found:
+        messagebox.showinfo("검색", f"{filename} 에 대한 어노테이션을 찾을 수 없습니다.")
+        return
+
+    if filename in image_list:
+        global current_image_index, previous_image_index
+        previous_image_index = current_image_index  # 현재 위치 저장
+        current_image_index = image_list.index(filename)
+        load_image_by_index(current_image_index)
+        load_bounding_from_annotation(filename)
+        log_text.delete("1.0", tk.END)
+        log_text.insert(tk.END, f"{filename}\n")
+    else:
+        messagebox.showinfo("검색", f"{filename} 파일이 디렉토리에 없습니다.")
+
+def delete_annotation():
+    if not selected_image:
+        return
+
+    image_id = os.path.basename(selected_image)
+    if not os.path.exists(ANNOTATION_FILE):
+        return
+
+    with open(ANNOTATION_FILE, "r") as f:
+        data = json.load(f)
+
+    before_count = len(data["annotations"])
+    data["annotations"] = [a for a in data["annotations"] if a["image_id"] != image_id]
+    data["images"] = [img for img in data["images"] if img["id"] != image_id]
+    after_count = len(data["annotations"])
+
+    with open(ANNOTATION_FILE, "w") as f:
+        json.dump(data, f, indent=2)
+
+    bounding_boxes.clear()
+    update_image()
+    log_text.insert(tk.END, f"> Annotation for {image_id} deleted ({before_count - after_count} entries removed)\n\n")
+
+def restore_previous_image():
+    global current_image_index
+    if previous_image_index is not None:
+        current_image_index = previous_image_index
+        load_image_by_index(current_image_index)
+        # 로그영역 초기화
+        log_text.delete("1.0", tk.END)
+        filename = os.path.basename(image_list[current_image_index])
+        log_text.insert(tk.END, f"{filename}\n")
+        # 어노테이션 로드
+        load_bounding_from_annotation(filename)
+
+search_frame = tk.Frame(left_frame, bg="lightgray")
+search_frame.pack(pady=5, fill="x")
+search_entry = tk.Entry(search_frame, width=20)
+search_entry.pack(side="left", padx=(0, 5))
+search_button = tk.Button(search_frame, text="Search", command=lambda: search_annotation())
+search_button.pack(side="left", padx=5)
+delete_button = tk.Button(search_frame, text="Delete", command=lambda: delete_annotation())
+delete_button.pack(side="left", padx=5)
+restore_button = tk.Button(search_frame, text="Back to Previous", command=restore_previous_image)
+restore_button.pack(side="left", padx=5)
+
+middle_frame = tk.Frame(left_frame, bg="lightgray")
+middle_frame.pack(side="left", fill="x", padx=10, pady=10)
 
 category_var = tk.StringVar(value="checked")
-category_frame = tk.LabelFrame(left_frame, text="Patterns", bg="lightgray", padx=5, pady=5)
-category_frame.pack(pady=5)
+category_frame = tk.LabelFrame(middle_frame, text="Patterns", bg="lightgray", padx=5, pady=5)
+category_frame.pack(side="left", fill="y", padx=(0, 10))
 
-for category in CATEGORY_MAPPING.keys():
-    radio = tk.Radiobutton(
-        category_frame,
-        text=category.capitalize(),
+radio_buttons = []
+def update_category_highlight():
+    selected = category_var.get()
+    for btn in radio_buttons:
+        if btn["value"] == selected:
+            btn.config(bg="orange")
+        else:
+            btn.config(bg="lightgray")
+
+for idx, category in enumerate(CATEGORY_MAPPING.keys(), start=1):
+    radio = tk.Radiobutton(category_frame,
+        text=f"{idx}. {category.capitalize()}",
         variable=category_var,
         value=category,
         bg="lightgray",
-        anchor="w"
+        anchor="w",
+        command=lambda: update_category_highlight()
     )
     radio.pack(anchor="w")
+    radio_buttons.append(radio)
+
+
+log_frame = tk.LabelFrame(middle_frame, text="Logs", bg="lightgray", padx=5, pady=5)
+log_frame.pack(side="left", fill="both", expand=True)
+
+log_scrollbar = tk.Scrollbar(log_frame)
+log_scrollbar.pack(side="right", fill="y")
+
+log_text = tk.Text(log_frame, height=12, width=30, yscrollcommand=log_scrollbar.set, wrap="word")
+log_text.pack(fill="both", expand=True)
+log_scrollbar.config(command=log_text.yview)
 
 selected_image = None
 current_img = None
@@ -141,8 +312,18 @@ bounding_boxes = []  # (rel_x1, rel_y1, rel_x2, rel_y2, color, category)
 start_x, start_y = None, None
 cursor_lines = []
 
-progress_label = tk.Label(left_frame, text="Progress: 0 / 0", bg="lightgray", font=("Arial", 10))
-progress_label.pack(pady=5)
+def log_annotation(rx1, ry1, rx2, ry2, category):
+    x = min(rx1, rx2) * 300
+    y = min(ry1, ry2) * 300
+    w = abs(rx2 - rx1) * 300
+    h = abs(ry2 - ry1) * 300
+    annotation = {
+        "category": category,
+        "bbox": [round(x, 2), round(y, 2), round(w, 2), round(h, 2)],
+        "area": round(w * h, 2)
+    }
+    log_text.insert(tk.END, json.dumps(annotation, indent=2) + "\n\n")
+    log_text.see(tk.END)  # 자동 스크롤
 
 def update_progress_label():
     if image_list:
@@ -151,7 +332,6 @@ def update_progress_label():
         progress_text = "Progress: 0 / 0"
     progress_label.config(text=progress_text)
 
-current_image_index = 0
 image_list = []
 annotation_data = {}
 
@@ -181,6 +361,12 @@ def navigate_image(step):
         current_image_index = new_index
         load_image_by_index(current_image_index)
         update_progress_label()
+         # 로그 초기화
+        log_text.delete("1.0", tk.END)
+        # 현재 이미지 파일명 표시
+        current_filename = os.path.basename(image_list[current_image_index])
+        log_text.insert(tk.END, f"{current_filename}\n")
+        load_bounding_from_annotation(current_filename)
 
 def load_image_list():
     global image_list, current_image_index
@@ -293,6 +479,7 @@ def finalize_rectangle(event):
         color_index += 1
         category = category_var.get()
         bounding_boxes.append((rel_x1, rel_y1, rel_x2, rel_y2, color, category))
+        log_annotation(rel_x1, rel_y1, rel_x2, rel_y2, category)  # ← 로그 출력
         update_image()
 
 def undo_bounding_box():
@@ -315,6 +502,46 @@ def clear_crosshair(event):
         canvas.delete(line)
     cursor_lines.clear()
 
+# annotation.json으로 부터 리사이즈 이미지 저장
+def resize_existing_annotated_images():
+    source_dir = entry.get()
+    target_dir = save_entry.get()
+
+    if not os.path.isdir(source_dir):
+        messagebox.showerror("경로 오류", "유효한 원본 디렉토리를 입력하세요.")
+        return
+
+    if not os.path.exists(target_dir):
+        os.makedirs(target_dir)
+
+    if not os.path.exists(ANNOTATION_FILE):
+        messagebox.showinfo("알림", "annotation.json 파일이 없습니다.")
+        return
+
+    with open(ANNOTATION_FILE, "r") as f:
+        annotation_data = json.load(f)
+
+    success, fail = 0, 0
+    for img_info in annotation_data.get("images", []):
+        filename = img_info["file_name"]
+        src_path = os.path.join(source_dir, filename)
+        dst_path = os.path.join(target_dir, filename)
+
+        try:
+            if os.path.exists(src_path):
+                img = Image.open(src_path).resize((300, 300))
+                img.save(dst_path)
+                success += 1
+            else:
+                print(f"[⚠️ 누락] {filename} 파일 없음")
+                fail += 1
+        except Exception as e:
+            print(f"[에러] {filename}: {e}")
+            fail += 1
+
+    messagebox.showinfo("완료", f"총 {success}개 이미지 저장 완료\n실패 {fail}개")
+
+
 def save_annotations():
     if not selected_image:
         messagebox.showwarning("No Image", "Load an image first.")
@@ -324,11 +551,22 @@ def save_annotations():
         with open(ANNOTATION_FILE, "r") as f:
             annotation_data = json.load(f)
     else:
+        #CATEGORY_MAPPING = {"checked": 1, "solid": 2, "stripe": 3, "dotted": 4, "floral": 5, "animal": 6, "paisley": 7, "printed": 8 }  # category_id 매핑 (COCO 포맷용)
         annotation_data = {
             "images": [],
             "categories": [
                 {"id": 1, "name": "checked"},
-                {"id": 2, "name": "solid"}
+                {"id": 2, "name": "solid"},
+                {"id": 3, "name": "stripe"},
+                {"id": 4, "name": "dotted"},
+                {"id": 5, "name": "floral"},
+                {"id": 6, "name": "animal"},
+                {"id": 7, "name": "paisley"},
+                {"id": 8, "name": "printed"},
+                {"id": 9, "name": "camouflage"},
+                {"id": 10, "name": "text"},
+                {"id": 11, "name": "logo"},
+                {"id": 12, "name": "pocket"}
             ],
             "annotations": []
         }
@@ -358,13 +596,16 @@ def save_annotations():
         # Save resized image to save directory
         save_dir = save_entry.get()
 
-        if os.path.isdir(save_dir):
-            resized_img = current_img.resize((300, 300))
-            file_name = os.path.basename(selected_image)
-            save_path = os.path.join(save_dir, file_name)
+        if save_dir:
             try:
+                if not os.path.exists(save_dir):
+                    os.makedirs(save_dir)
+
+                resized_img = current_img.resize((300, 300))
+                file_name = os.path.basename(selected_image)
+                save_path = os.path.join(save_dir, file_name)
                 resized_img.save(save_path)
-            except Exception as e:
+            except Exception as e: 
                 print(f"Failed to save resized image: {e}")
 
     navigate_image(1)  
@@ -380,11 +621,19 @@ if config["last_directory"]:
     load_image_list()
     load_image_by_index(current_image_index)
     update_progress_label()
+    update_category_highlight()
+    # resize_existing_annotated_images()
+    # 로그 초기화 + 파일명 표시
+    log_text.delete("1.0", tk.END)
+    if image_list:
+        current_filename = os.path.basename(image_list[current_image_index])
+        log_text.insert(tk.END, f"{current_filename}\n")
 
 
 root.bind("<Control-z>", lambda event: undo_bounding_box())
 root.bind("<Control-s>", lambda event: save_annotations())
 root.bind("<Control-x>", lambda event: navigate_image(1))
 root.bind("<Control-BackSpace>", lambda event: navigate_image(-1))
+root.bind("<Key>", select_category_by_key)
 
 root.mainloop()
