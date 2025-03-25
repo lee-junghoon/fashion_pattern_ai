@@ -112,8 +112,12 @@ with open(RESULT_TXT_PATH, "w") as result_file:
 
 
                     cv2.rectangle(image_cv2, (x_min, y_min), (x_max, y_max), color, 1)
-                    cv2.putText(image_cv2, f"{label_text}: {score:.2f}", (x_min, y_min - 5),
-                                cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 1)
+                    #cv2.putText(image_cv2, f"{label_text}: {score:.2f}", (x_min, y_min - 5), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 1)
+                    
+                    text = f"{label_text}: {score:.2f}"
+                    (text_width, text_height), _ = cv2.getTextSize(text, cv2.FONT_HERSHEY_SIMPLEX, 0.5, 1)
+                    cv2.rectangle(image_cv2, (x_min, y_min - text_height - 4), (x_min + text_width, y_min), color, -1)
+                    cv2.putText(image_cv2, text, (x_min, y_min - 2), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 1)
 
                     # 🔥 TXT 파일에 바운딩 박스 정보 저장
                     result_file.write(f"{x_min}, {y_min}, {x_max}, {y_max}, {score:.2f}, {label_text}\n")

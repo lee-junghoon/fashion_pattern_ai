@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
+import tkinter.font as tkfont
 from PIL import Image, ImageTk
 import os
 import json
@@ -69,17 +70,92 @@ config = load_config()
 
 root = tk.Tk()
 root.title("Bounding Box Drawer")
-root.geometry("1000x800")
+root.geometry("1000x850")
 root.protocol("WM_DELETE_WINDOW", on_closing)
 
-left_frame = tk.Frame(root, width=400, height=800, bg="lightgray", padx=10, pady=10)
+left_frame = tk.Frame(root, width=400, height=850, bg="lightgray", padx=10, pady=10)
 left_frame.pack(side="left", fill="both")
-right_frame = tk.Frame(root, width=600, height=600, bg="white")
+right_frame = tk.Frame(root, width=600, height=850, bg="white")
 right_frame.pack(side="right", fill="both", expand=True)
 
-canvas = tk.Canvas(right_frame, width=600, height=600, bg="white", cursor="none")
-canvas.pack()
+# 오른쪽 캔버스
+canvas_container = tk.Frame(right_frame, width=600, height=850, bg="white")
+canvas_container.pack(expand=True)  # 중앙 정렬 위해 expand 사용
+canvas = tk.Canvas(canvas_container, width=600, height=600, bg="white", cursor="none")
+canvas.place(relx=0.5, rely=0.5, anchor="center")  # 캔버스를 중앙에 배치
 
+# 오른쪽 상단 썸네일 영역
+thumb_container = tk.Frame(right_frame, height=100)
+thumb_container.pack(fill="x", side="top")
+
+thumb_canvas = tk.Canvas(thumb_container, height=100, bg="white")
+thumb_canvas.pack(side="left", fill="x", expand=True)
+
+scrollbar = tk.Scrollbar(thumb_container, orient="horizontal", command=thumb_canvas.xview)
+scrollbar.pack(side="bottom", fill="x")
+
+thumb_canvas.configure(xscrollcommand=scrollbar.set)
+
+thumb_frame = tk.Frame(thumb_canvas, bg="white")
+thumb_canvas.create_window((0, 0), window=thumb_frame, anchor="nw")
+
+thumb_images = {}  # 이미지 유지용 (GC 방지)
+
+def update_thumbnail_list():
+    for widget in thumb_frame.winfo_children():
+        widget.destroy()
+
+    thumb_images.clear()
+
+    if not image_list:
+        return
+
+    annotated_set = set()
+    if os.path.exists(ANNOTATION_FILE):
+        with open(ANNOTATION_FILE, "r") as f:
+            data = json.load(f)
+            annotated_set = set(img["file_name"] for img in data.get("images", []))
+
+    start = max(0, current_image_index - 5)
+    end = min(len(image_list), current_image_index + 6) 
+
+    for idx in range(start, end):
+        filename = image_list[idx]
+        full_path = os.path.join(entry.get(), filename)
+
+        try:
+            img = Image.open(full_path).resize((60, 60))
+            img_tk = ImageTk.PhotoImage(img)
+            thumb_images[filename] = img_tk
+        except:
+            continue
+
+        border_color = "skyblue" if filename in annotated_set else "gray"
+        border_width = 2
+        if idx == current_image_index:
+            border_color = "red"
+            border_width = 3
+
+        frame = tk.Frame(thumb_frame, bd=border_width, relief="solid", bg=border_color)
+        frame.pack(side="left", padx=3, pady=5)
+
+        btn = tk.Button(frame, image=img_tk, command=lambda i=idx: jump_to_image(i))
+        btn.pack()
+
+def jump_to_image(index):
+    global current_image_index
+    if 0 <= index < len(image_list):
+        current_image_index = index
+        load_image_by_index(current_image_index)
+        update_annotation_progress()
+        update_thumbnail_list()
+
+def resize_thumb_canvas(event):
+    thumb_canvas.configure(scrollregion=thumb_canvas.bbox("all"))
+
+thumb_frame.bind("<Configure>", resize_thumb_canvas)
+
+# 왼쪽 영역
 input_frame = tk.Frame(left_frame, bg="lightgray")
 input_frame.pack(pady=10, fill="x")
 
@@ -95,7 +171,6 @@ button.pack(side="left", padx=5)
 
 save_frame = tk.Frame(left_frame, bg="lightgray")
 save_frame.pack(pady=10, fill="x")
-
 save_label = tk.Label(save_frame, text="Save To:", bg="lightgray")
 save_label.pack(side="left", padx=5)
 
@@ -143,7 +218,7 @@ save_anno_button.pack(side="left", expand=True, fill="x", padx=5)
 next_button = tk.Button(button_frame1, text="Skip and Next (Ctrl+X)", command=lambda: navigate_image(1))
 next_button.pack(side="left", expand=True, fill="x", padx=5)
 
-# 둘째 줄 버튼튼
+# 둘째 줄 버튼
 button_frame2 = tk.Frame(nav_frame, bg="lightgray")
 button_frame2.pack(pady=5, fill="x")
 
@@ -153,9 +228,70 @@ back_button.pack(side="left", expand=True, fill="x", padx=5)
 undo_button = tk.Button(button_frame2, text="Undo (Ctrl+Z)", command=lambda: undo_bounding_box())
 undo_button.pack(side="left", expand=True, fill="x", padx=5)
 
-# 프로그래스 라벨
-progress_label = tk.Label(left_frame, text="Progress: 0 / 0", bg="lightgray", font=("Arial", 10))
-progress_label.pack(pady=5)
+# 프로그래스 + 스테이터스 라벨
+status_frame = tk.LabelFrame(left_frame, text="Annotation Status", bg="lightgray", padx=5, pady=5)
+status_frame.pack(fill="x", padx=10, pady=(0, 10))
+progress_label = tk.Label(status_frame, text="Progress: 0 / 0", bg="lightgray", justify="left", anchor="w", font=("Arial", 10))
+progress_label.pack(fill="both")
+status_label = tk.Label(status_frame, text="", bg="lightgray", justify="left", anchor="w", font=("Arial", 10))
+status_label.pack(fill="both")
+
+def update_annotation_progress():
+    # Progress (현재 인덱스 / 전체 이미지)
+    if image_list:
+        progress_text = f"Progress: {current_image_index + 1} / {len(image_list)}"
+    else:
+        progress_text = "Progress: 0 / 0"
+    progress_label.config(text=progress_text)
+
+    # Annotation Status
+    total_images = len(image_list)
+    labeled_images = 0
+    pattern_counts = {name: 0 for name in CATEGORY_MAPPING.keys()}
+
+    if not os.path.exists(ANNOTATION_FILE):
+        status_label.config(text="Labeled: 0 / 0\nPatterns:")
+        return
+
+    with open(ANNOTATION_FILE, "r") as f:
+        data = json.load(f)
+
+    labeled_image_ids = set()
+    image_to_categories = {}
+
+    for ann in data.get("annotations", []):
+        image_id = ann["image_id"]
+        category_id = ann["category_id"]
+        category = [k for k, v in CATEGORY_MAPPING.items() if v == category_id][0]
+
+        labeled_image_ids.add(image_id)
+
+        if image_id not in image_to_categories:
+            image_to_categories[image_id] = set()
+        image_to_categories[image_id].add(category)
+
+    # 개수 집계
+    labeled_images = len(labeled_image_ids)
+    for cat_set in image_to_categories.values():
+        for cat in cat_set:
+            pattern_counts[cat] += 1
+
+    # 텍스트 구성: 2개씩 묶어서 출력
+    lines = [f"Labeled: {labeled_images} / {total_images}", "", "Per Pattern:"]
+    cats = list(CATEGORY_MAPPING.keys())
+    for i in range(0, len(cats), 3):
+        row_parts = []
+        for j in range(3):
+            if i + j < len(cats):
+                cat = cats[i + j]
+                count = pattern_counts[cat]
+                text = f"✔ {cat.capitalize()}: {count:<3}"
+                row_parts.append(f"{text:<20}")  # 일정 너비 확보
+        lines.append("".join(row_parts))
+
+    status_label.config(text="\n".join(lines))
+
+
 
 # 검색, 삭제 영역
 previous_image_index = None # 작업중이던 이미지 인덱스
@@ -350,7 +486,8 @@ def load_image_by_index(index):
     scale_factor = 1.0
     bounding_boxes.clear()
     update_image()
-    update_progress_label()
+    #update_progress_label()
+    update_annotation_progress()
 
 def navigate_image(step):
     global current_image_index, bounding_boxes
@@ -360,7 +497,9 @@ def navigate_image(step):
     if 0 <= new_index < len(image_list):
         current_image_index = new_index
         load_image_by_index(current_image_index)
-        update_progress_label()
+        #update_progress_label()
+        update_thumbnail_list()
+        update_annotation_progress()
          # 로그 초기화
         log_text.delete("1.0", tk.END)
         # 현재 이미지 파일명 표시
@@ -373,7 +512,7 @@ def load_image_list():
     dir_path = entry.get()
     if os.path.isdir(dir_path):
         image_list = [f for f in os.listdir(dir_path) if f.lower().endswith((".png", "jpg", "jpeg"))]
-        image_list.sort()
+        image_list.sort(key=lambda f: os.path.getctime(os.path.join(dir_path, f)))
     
     # 마지막 작업한 이미지 다음부터 시작
     last_image = None
@@ -433,8 +572,22 @@ def update_image():
             y1 = center_y + ry1 * new_size
             x2 = center_x + rx2 * new_size
             y2 = center_y + ry2 * new_size
-            canvas.create_rectangle(x1, y1, x2, y2, outline=color, width=2, tags="bounding_box")
-            canvas.create_text(x1 + 3, y1, text=category, anchor="nw", fill=color, font=("Arial", 10, "bold"))
+            # 바운딩박스 draw
+            canvas.create_rectangle(x1, y1, x2, y2, outline=color, width=1, tags="bounding_box")
+            # 텍스트 위치 계산 (박스 바깥 왼쪽 상단)
+            text_x = x1
+            text_y = y1 - 14  # 박스 바깥 위로 12px
+            # 텍스트 내용
+            text = category
+            # 텍스트 픽셀 너비 측정
+            font = tkfont.Font(family="Arial", size=8, weight="bold")
+            text_width = font.measure(text)
+            text_height = font.metrics("linespace")
+            # 텍스트 배경 사각형 (작고 패딩 없이)
+            canvas.create_rectangle(text_x, text_y,text_x + text_width + 4, text_y + text_height, fill=color, outline="")
+            # 텍스트 (흰색, 사이즈 8, 위치 왼쪽상단에 붙여)
+            canvas.create_text(text_x + 2, text_y, text=text, anchor="nw", fill="white", font=font)
+
 
 def zoom(event):
     global scale_factor
@@ -620,8 +773,10 @@ canvas.bind("<Leave>", clear_crosshair)
 if config["last_directory"]:
     load_image_list()
     load_image_by_index(current_image_index)
-    update_progress_label()
+    #update_progress_label()
+    update_annotation_progress()
     update_category_highlight()
+    update_thumbnail_list()
     # resize_existing_annotated_images()
     # 로그 초기화 + 파일명 표시
     log_text.delete("1.0", tk.END)
