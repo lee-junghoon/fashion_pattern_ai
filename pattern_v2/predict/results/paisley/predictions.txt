@@ -1,0 +1,1267 @@
+== SSD Detection Results ==
+
+Filename: 00f80e0e9aca48bfb9e46268855af378.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+80, 32, 224, 273, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 128 boxes
+ - Avg score (>= 0.7): 0.9997
+ - Avg score (< 0.7): 0.0144
+
+========================================
+
+Filename: 02c298ca337c4ef6aec7097c183d9e94.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+60, 152, 252, 217, 0.86, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 106 boxes
+ - Avg score (>= 0.7): 0.8558
+ - Avg score (< 0.7): 0.0084
+
+========================================
+
+Filename: 044f32aaee4e433ebb4c3eabdb2cd8fb.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 117 boxes
+ - Avg score (< 0.7): 0.0038
+
+========================================
+
+Filename: 04bf5ca8cd0341c5949ebc9e630095f3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+62, 39, 240, 237, 0.99, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 157 boxes
+ - Avg score (>= 0.7): 0.9926
+ - Avg score (< 0.7): 0.0205
+
+========================================
+
+Filename: 06afe13f81524a3888796e8c77f1daef.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 46 boxes
+ - Avg score (< 0.7): 0.0027
+
+========================================
+
+Filename: 08bc76b5e27b441b89fcacb430d5bfce.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+55, 29, 248, 288, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 186 boxes
+ - Avg score (>= 0.7): 0.9999
+ - Avg score (< 0.7): 0.0186
+
+========================================
+
+Filename: 0c03bf133b8743e4bb098975ff149950.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+54, 33, 250, 257, 0.99, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 57 boxes
+ - Avg score (>= 0.7): 0.9920
+ - Avg score (< 0.7): 0.0085
+
+========================================
+
+Filename: 0f23464e42e44d47a646e01f41176fce.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+33, 47, 275, 259, 1.00, Paisley
+185, 91, 227, 161, 0.97, Paisley
+195, 212, 240, 279, 0.91, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 145 boxes
+ - Avg score (>= 0.7): 0.9626
+ - Avg score (< 0.7): 0.0327
+
+========================================
+
+Filename: 118b0dacb6e54f308555f5b9f5daf76a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+55, 45, 252, 238, 1.00, Paisley
+143, 222, 163, 241, 0.74, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 184 boxes
+ - Avg score (>= 0.7): 0.8714
+ - Avg score (< 0.7): 0.0124
+
+========================================
+
+Filename: 207728f27d8846798fb2b91fb1ae12c8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+64, 36, 229, 280, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 183 boxes
+ - Avg score (>= 0.7): 0.9991
+ - Avg score (< 0.7): 0.0058
+
+========================================
+
+Filename: 2167ebfddb624ce3a522918c08ec54a8.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+71, 25, 230, 278, 1.00, Paisley
+68, 6, 124, 65, 0.78, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 120 boxes
+ - Avg score (>= 0.7): 0.8912
+ - Avg score (< 0.7): 0.0113
+
+========================================
+
+Filename: 22a99ddf54e2467b92e7d995a5655e00.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 151 boxes
+ - Avg score (< 0.7): 0.0120
+
+========================================
+
+Filename: 253574740234499b8418056271c02589.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+145, 7, 194, 68, 0.89, Paisley
+83, 22, 225, 284, 0.76, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 158 boxes
+ - Avg score (>= 0.7): 0.8241
+ - Avg score (< 0.7): 0.0291
+
+========================================
+
+Filename: 25684c330f3942c587e609663f4a9313.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 155 boxes
+ - Avg score (< 0.7): 0.0024
+
+========================================
+
+Filename: 285bd8c73e59408596acd4be8a7a9ee9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 88 boxes
+ - Avg score (< 0.7): 0.0051
+
+========================================
+
+Filename: 29dad3def5ba4cc4937a13aff843be82.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+96, 12, 211, 285, 0.85, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 66 boxes
+ - Avg score (>= 0.7): 0.8471
+ - Avg score (< 0.7): 0.0076
+
+========================================
+
+Filename: 2aa1bd56cfdc417186efbd8a72ca6549.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+78, 88, 215, 267, 0.98, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 143 boxes
+ - Avg score (>= 0.7): 0.9826
+ - Avg score (< 0.7): 0.0186
+
+========================================
+
+Filename: 2c529a1381874240b9c515d0b7608431.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 26 boxes
+ - Avg score (< 0.7): 0.0058
+
+========================================
+
+Filename: 2c96a9f4fe8b4e618f9bba48eeb15763.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+172, 222, 224, 272, 0.88, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 128 boxes
+ - Avg score (>= 0.7): 0.8838
+ - Avg score (< 0.7): 0.0455
+
+========================================
+
+Filename: 2ec7df9974ee4501809189f5bec9239a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+51, 16, 252, 292, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 129 boxes
+ - Avg score (>= 0.7): 1.0000
+ - Avg score (< 0.7): 0.0100
+
+========================================
+
+Filename: 311a53d969fb436595fb3648ba41fefd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+169, 76, 224, 121, 1.00, Paisley
+160, 215, 227, 292, 0.99, Paisley
+26, 32, 277, 290, 0.97, Paisley
+168, 148, 226, 201, 0.94, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 4 boxes
+ - Score <  0.7: 133 boxes
+ - Avg score (>= 0.7): 0.9750
+ - Avg score (< 0.7): 0.0590
+
+========================================
+
+Filename: 38b0c957eb694865bc7c812e6e168edc.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+64, 52, 243, 260, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 136 boxes
+ - Avg score (>= 0.7): 0.9999
+ - Avg score (< 0.7): 0.0071
+
+========================================
+
+Filename: 39c3594a576f45e79f0d01c9595db553.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+88, 19, 216, 269, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 152 boxes
+ - Avg score (>= 0.7): 0.9990
+ - Avg score (< 0.7): 0.0359
+
+========================================
+
+Filename: 3b77cf3156b142dc8dcc84c7e50c430c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 20 boxes
+ - Avg score (< 0.7): 0.0090
+
+========================================
+
+Filename: 4196802125274d36837cc02d0fd634e5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+97, 15, 199, 196, 0.92, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 93 boxes
+ - Avg score (>= 0.7): 0.9231
+ - Avg score (< 0.7): 0.0113
+
+========================================
+
+Filename: 41a0f5aee9b74cab9727d0bcd245fc8d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 122 boxes
+ - Avg score (< 0.7): 0.0214
+
+========================================
+
+Filename: 448129.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+62, 40, 240, 223, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 132 boxes
+ - Avg score (>= 0.7): 0.9953
+ - Avg score (< 0.7): 0.0181
+
+========================================
+
+Filename: 448155.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+81, 36, 210, 199, 0.82, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 159 boxes
+ - Avg score (>= 0.7): 0.8188
+ - Avg score (< 0.7): 0.0095
+
+========================================
+
+Filename: 448175.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+74, 34, 134, 181, 0.96, Paisley
+87, 32, 216, 161, 0.93, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 164 boxes
+ - Avg score (>= 0.7): 0.9437
+ - Avg score (< 0.7): 0.0186
+
+========================================
+
+Filename: 45459faa305e472bb1630050a79ee2d1.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 96 boxes
+ - Avg score (< 0.7): 0.0054
+
+========================================
+
+Filename: 4582fa64d3c541509d3560d0a38d8755.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+85, 22, 222, 282, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 167 boxes
+ - Avg score (>= 0.7): 0.9977
+ - Avg score (< 0.7): 0.0075
+
+========================================
+
+Filename: 4961d3fd5f994a75ba14ba0daea17b3d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+84, 36, 226, 233, 0.89, Paisley
+202, 153, 250, 209, 0.86, Paisley
+47, 154, 92, 209, 0.79, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 142 boxes
+ - Avg score (>= 0.7): 0.8494
+ - Avg score (< 0.7): 0.0365
+
+========================================
+
+Filename: 4a296094f31d482b82d9562eb4b51957.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+55, 70, 125, 113, 0.99, Paisley
+58, 25, 235, 263, 0.98, Paisley
+216, 191, 252, 245, 0.77, Paisley
+97, 128, 145, 179, 0.75, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 4 boxes
+ - Score <  0.7: 118 boxes
+ - Avg score (>= 0.7): 0.8716
+ - Avg score (< 0.7): 0.0189
+
+========================================
+
+Filename: 4bd344930593423e9ebff986116c3a5d.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+38, 246, 86, 263, 0.77, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 128 boxes
+ - Avg score (>= 0.7): 0.7670
+ - Avg score (< 0.7): 0.0058
+
+========================================
+
+Filename: 4cd9d24f61a242abb8a750b159f4cb14.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+45, 34, 262, 289, 1.00, Paisley
+27, 43, 70, 262, 0.98, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 181 boxes
+ - Avg score (>= 0.7): 0.9876
+ - Avg score (< 0.7): 0.0610
+
+========================================
+
+Filename: 4d3a4ecaabc34448ad91a94961b158e9.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+48, 43, 254, 253, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 159 boxes
+ - Avg score (>= 0.7): 0.9986
+ - Avg score (< 0.7): 0.0111
+
+========================================
+
+Filename: 4e698b1e15004b748cec60fa9348bb30.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+64, 196, 231, 262, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 88 boxes
+ - Avg score (>= 0.7): 0.9997
+ - Avg score (< 0.7): 0.0062
+
+========================================
+
+Filename: 4f1e85e8911041ad9d97ddf527cf96a5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+57, 33, 250, 275, 0.99, Paisley
+86, 39, 158, 126, 0.93, Paisley
+85, 172, 137, 227, 0.85, Paisley
+174, 20, 223, 72, 0.77, Paisley
+118, 102, 240, 208, 0.70, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 5 boxes
+ - Score <  0.7: 117 boxes
+ - Avg score (>= 0.7): 0.8496
+ - Avg score (< 0.7): 0.0348
+
+========================================
+
+Filename: 54e1592316cc44d88e1e8a00473815f6.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+69, 176, 189, 265, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 108 boxes
+ - Avg score (>= 0.7): 0.9969
+ - Avg score (< 0.7): 0.0034
+
+========================================
+
+Filename: 5b44d1ce769b4b98a30da81d1853cabc.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+59, 77, 240, 278, 0.97, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 149 boxes
+ - Avg score (>= 0.7): 0.9718
+ - Avg score (< 0.7): 0.0152
+
+========================================
+
+Filename: 5c8e1577522b4397a0291a905bcb870f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+71, 35, 223, 278, 0.99, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 142 boxes
+ - Avg score (>= 0.7): 0.9876
+ - Avg score (< 0.7): 0.0124
+
+========================================
+
+Filename: 604baa23c47541b682962472833df212.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+15, 57, 290, 248, 1.00, Paisley
+79, 213, 125, 252, 0.77, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 186 boxes
+ - Avg score (>= 0.7): 0.8830
+ - Avg score (< 0.7): 0.0638
+
+========================================
+
+Filename: 62c6e9fe4ddd4888bac84f26ae0ec82d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+176, 166, 239, 222, 0.91, Paisley
+164, 222, 228, 273, 0.73, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 117 boxes
+ - Avg score (>= 0.7): 0.8234
+ - Avg score (< 0.7): 0.0215
+
+========================================
+
+Filename: 66831f7de1b14740a1b85a8b781c5e96.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+35, 152, 113, 228, 0.99, Paisley
+150, 62, 212, 118, 0.99, Paisley
+127, 25, 180, 64, 0.88, Paisley
+79, 69, 125, 123, 0.87, Paisley
+8, 217, 54, 279, 0.85, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 5 boxes
+ - Score <  0.7: 83 boxes
+ - Avg score (>= 0.7): 0.9166
+ - Avg score (< 0.7): 0.0613
+
+========================================
+
+Filename: 6db2bab501fd467281068de76c89e69a.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+168, 202, 225, 264, 1.00, Paisley
+106, 215, 165, 266, 1.00, Paisley
+64, 41, 232, 217, 1.00, Paisley
+216, 67, 268, 126, 0.96, Paisley
+178, 97, 221, 163, 0.88, Paisley
+64, 55, 171, 205, 0.84, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 6 boxes
+ - Score <  0.7: 95 boxes
+ - Avg score (>= 0.7): 0.9452
+ - Avg score (< 0.7): 0.0452
+
+========================================
+
+Filename: 6ee1bfdad2ef40cb988998fd414d88bd.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+53, 32, 259, 240, 1.00, Paisley
+133, 170, 185, 220, 0.80, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 131 boxes
+ - Avg score (>= 0.7): 0.9007
+ - Avg score (< 0.7): 0.0129
+
+========================================
+
+Filename: 70a67cbbfbe64244a5c373440edd7f19.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 148 boxes
+ - Avg score (< 0.7): 0.0097
+
+========================================
+
+Filename: 70fcbf4090b34e4fa0f82131729fdded.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+63, 60, 243, 236, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 114 boxes
+ - Avg score (>= 0.7): 1.0000
+ - Avg score (< 0.7): 0.0092
+
+========================================
+
+Filename: 75da669b9340434a859bfca68c1a555b.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 181 boxes
+ - Avg score (< 0.7): 0.0189
+
+========================================
+
+Filename: 7739459cfc794459b6a322058ac43d1c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+64, 126, 132, 209, 1.00, Paisley
+113, 196, 205, 251, 0.99, Paisley
+176, 73, 227, 141, 0.96, Paisley
+51, 113, 126, 189, 0.87, Paisley
+110, 6, 208, 73, 0.82, Paisley
+203, 139, 262, 196, 0.75, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 6 boxes
+ - Score <  0.7: 92 boxes
+ - Avg score (>= 0.7): 0.8984
+ - Avg score (< 0.7): 0.0838
+
+========================================
+
+Filename: 7a48358b74d646e7bfa2d8b19259644d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+32, 39, 275, 247, 0.99, Paisley
+137, 169, 195, 227, 0.99, Paisley
+22, 153, 65, 218, 0.77, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 131 boxes
+ - Avg score (>= 0.7): 0.9148
+ - Avg score (< 0.7): 0.0102
+
+========================================
+
+Filename: 7cd68759b0f644939d17419b705faac0.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+46, 45, 267, 243, 1.00, Paisley
+72, 59, 124, 118, 0.99, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 49 boxes
+ - Avg score (>= 0.7): 0.9931
+ - Avg score (< 0.7): 0.0037
+
+========================================
+
+Filename: 7cef9522f51c498cbfac4d4f08b6f0a5.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+22, 55, 284, 228, 1.00, Paisley
+62, 173, 114, 219, 0.99, Paisley
+159, 139, 207, 208, 0.96, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 127 boxes
+ - Avg score (>= 0.7): 0.9855
+ - Avg score (< 0.7): 0.0207
+
+========================================
+
+Filename: 7dad1aa878734b5e803e600afe6e794a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+68, 206, 137, 240, 0.88, Paisley
+74, 152, 136, 209, 0.86, Paisley
+198, 199, 274, 234, 0.81, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 129 boxes
+ - Avg score (>= 0.7): 0.8471
+ - Avg score (< 0.7): 0.0386
+
+========================================
+
+Filename: 7faf6b81005e4d2193d1b739eb1ea709.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+64, 32, 245, 292, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 161 boxes
+ - Avg score (>= 0.7): 0.9999
+ - Avg score (< 0.7): 0.0131
+
+========================================
+
+Filename: 80cc9871688f4bed93bd109897760a35.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+66, 19, 236, 289, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 134 boxes
+ - Avg score (>= 0.7): 1.0000
+ - Avg score (< 0.7): 0.0087
+
+========================================
+
+Filename: 83046460d84a4f1cb13814f428f0cb85.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 157 boxes
+ - Avg score (< 0.7): 0.0105
+
+========================================
+
+Filename: 8383a762786043da9185764ebbdc6e11.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+62, 26, 233, 280, 1.00, Paisley
+76, 108, 133, 156, 0.95, Paisley
+148, 38, 201, 86, 0.80, Paisley
+98, 150, 181, 241, 0.77, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 4 boxes
+ - Score <  0.7: 100 boxes
+ - Avg score (>= 0.7): 0.8818
+ - Avg score (< 0.7): 0.0226
+
+========================================
+
+Filename: 8597c971aabd47bd921e2e90fd77e75f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 31 boxes
+ - Avg score (< 0.7): 0.0041
+
+========================================
+
+Filename: 86f9884139a84beb97a0fb85322681aa.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+92, 18, 213, 280, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 155 boxes
+ - Avg score (>= 0.7): 0.9995
+ - Avg score (< 0.7): 0.0188
+
+========================================
+
+Filename: 8705c292c7e0428db19ee717f385b93d.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 140 boxes
+ - Avg score (< 0.7): 0.0057
+
+========================================
+
+Filename: 87c78ce4662945c2a76a460a722cbbd9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+31, 142, 115, 212, 1.00, Paisley
+183, 83, 249, 146, 0.99, Paisley
+17, 45, 285, 273, 0.98, Paisley
+80, 190, 136, 250, 0.94, Paisley
+88, 102, 151, 156, 0.79, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 5 boxes
+ - Score <  0.7: 91 boxes
+ - Avg score (>= 0.7): 0.9377
+ - Avg score (< 0.7): 0.0680
+
+========================================
+
+Filename: 8873c56d319f445b9feba812d000c278.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+63, 50, 238, 256, 1.00, Paisley
+80, 64, 140, 136, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 109 boxes
+ - Avg score (>= 0.7): 1.0000
+ - Avg score (< 0.7): 0.0079
+
+========================================
+
+Filename: 9216c705a4034093bbf86631052b3c7a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 178 boxes
+ - Avg score (< 0.7): 0.0114
+
+========================================
+
+Filename: 92b4d03f90c34d36b7ca6d919bb402ab.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+59, 51, 243, 233, 1.00, Paisley
+104, 160, 174, 202, 0.95, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 171 boxes
+ - Avg score (>= 0.7): 0.9771
+ - Avg score (< 0.7): 0.0235
+
+========================================
+
+Filename: 9a026e9c361c4460bd087c3f1fea0d76.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 24 boxes
+ - Avg score (< 0.7): 0.0020
+
+========================================
+
+Filename: 9a04f96a131046c6885edfe527190f42.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+58, 75, 243, 293, 1.00, Paisley
+76, 145, 125, 201, 0.98, Paisley
+170, 186, 223, 226, 0.84, Paisley
+55, 97, 143, 281, 0.77, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 4 boxes
+ - Score <  0.7: 148 boxes
+ - Avg score (>= 0.7): 0.8947
+ - Avg score (< 0.7): 0.0352
+
+========================================
+
+Filename: 9a3beea1e86f49229cafea69ce785db0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+116, 81, 167, 133, 0.99, Paisley
+111, 232, 170, 289, 0.98, Paisley
+40, 51, 90, 114, 0.82, Paisley
+48, 31, 256, 279, 0.75, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 4 boxes
+ - Score <  0.7: 89 boxes
+ - Avg score (>= 0.7): 0.8841
+ - Avg score (< 0.7): 0.0208
+
+========================================
+
+Filename: a19f03f0a5f74d1da4c9c3299af88ac2.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+96, 27, 210, 231, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 128 boxes
+ - Avg score (>= 0.7): 0.9990
+ - Avg score (< 0.7): 0.0137
+
+========================================
+
+Filename: a286d834c0fe4aa9b76e0404e8aebcf7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 171 boxes
+ - Avg score (< 0.7): 0.0148
+
+========================================
+
+Filename: a32a3232d9fa42e58ab1c1e81abcc65a.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 27 boxes
+ - Avg score (< 0.7): 0.0023
+
+========================================
+
+Filename: a41061c2dabb4be19cad321a36ab8448.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+130, 33, 173, 97, 0.99, Paisley
+90, 21, 212, 268, 0.96, Paisley
+110, 181, 181, 224, 0.71, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 146 boxes
+ - Avg score (>= 0.7): 0.8877
+ - Avg score (< 0.7): 0.0269
+
+========================================
+
+Filename: a93a086f54f5441ea92c28932ff546a3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+50, 95, 253, 228, 1.00, Paisley
+50, 158, 97, 219, 1.00, Paisley
+189, 158, 228, 208, 0.96, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 151 boxes
+ - Avg score (>= 0.7): 0.9865
+ - Avg score (< 0.7): 0.0132
+
+========================================
+
+Filename: aa757f7524f44e5480007c157522b7b9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+97, 160, 148, 226, 0.97, Paisley
+69, 50, 230, 241, 0.92, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 135 boxes
+ - Avg score (>= 0.7): 0.9453
+ - Avg score (< 0.7): 0.0156
+
+========================================
+
+Filename: ab64a3bebda142ac8345589c1ef4e26d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+49, 97, 257, 231, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 113 boxes
+ - Avg score (>= 0.7): 1.0000
+ - Avg score (< 0.7): 0.0190
+
+========================================
+
+Filename: abb92795600f461fa31a3d8c9a81752e.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 210 boxes
+ - Avg score (< 0.7): 0.0122
+
+========================================
+
+Filename: b024d2c07c354b65849969c3da42f724.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+170, 14, 231, 66, 1.00, Paisley
+67, 208, 230, 286, 0.82, Paisley
+54, 35, 248, 263, 0.75, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 161 boxes
+ - Avg score (>= 0.7): 0.8574
+ - Avg score (< 0.7): 0.0662
+
+========================================
+
+Filename: b81b86e1d2e242be8bdfe8d89122c0d9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+72, 25, 230, 270, 0.77, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 108 boxes
+ - Avg score (>= 0.7): 0.7691
+ - Avg score (< 0.7): 0.0091
+
+========================================
+
+Filename: b947205046954a5c9d76eecc0fc52a47.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+82, 14, 216, 274, 0.90, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 157 boxes
+ - Avg score (>= 0.7): 0.8966
+ - Avg score (< 0.7): 0.0195
+
+========================================
+
+Filename: bbe7fd731d68496cb3b20b73116d4163.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+84, 18, 228, 241, 0.93, Paisley
+84, 129, 223, 237, 0.92, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 37 boxes
+ - Avg score (>= 0.7): 0.9259
+ - Avg score (< 0.7): 0.0034
+
+========================================
+
+Filename: be6df688663e4705869cf39f43693a58.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+67, 15, 225, 291, 1.00, Paisley
+154, 122, 204, 172, 0.91, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 124 boxes
+ - Avg score (>= 0.7): 0.9559
+ - Avg score (< 0.7): 0.0419
+
+========================================
+
+Filename: bf7ddae4327344a18dc0b0ffd9ec86a8.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 19 boxes
+ - Avg score (< 0.7): 0.0021
+
+========================================
+
+Filename: c04c88407cf4429db08381732a71a734.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+99, 39, 217, 257, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 160 boxes
+ - Avg score (>= 0.7): 0.9967
+ - Avg score (< 0.7): 0.0122
+
+========================================
+
+Filename: c100c359c90745898dac3c8b70d800d2.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+47, 31, 257, 258, 1.00, Paisley
+110, 191, 196, 243, 0.99, Paisley
+121, 184, 191, 225, 0.95, Paisley
+162, 63, 217, 107, 0.93, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 4 boxes
+ - Score <  0.7: 145 boxes
+ - Avg score (>= 0.7): 0.9660
+ - Avg score (< 0.7): 0.0254
+
+========================================
+
+Filename: c103ed80d0ec41899b1157bb25d9e39c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+63, 34, 234, 288, 0.96, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 146 boxes
+ - Avg score (>= 0.7): 0.9568
+ - Avg score (< 0.7): 0.0075
+
+========================================
+
+Filename: c1fcfdc5550f409b8e5d82644cb4aae8.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 157 boxes
+ - Avg score (< 0.7): 0.0060
+
+========================================
+
+Filename: c794d529f592492388b0e9865a06abb1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+176, 8, 236, 75, 1.00, Paisley
+66, 231, 133, 265, 0.93, Paisley
+152, 180, 233, 223, 0.90, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 126 boxes
+ - Avg score (>= 0.7): 0.9422
+ - Avg score (< 0.7): 0.0268
+
+========================================
+
+Filename: c7cc8c6445344e6895ec12d7ca0ac669.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+21, 131, 278, 286, 1.00, Paisley
+119, 131, 174, 178, 0.98, Paisley
+45, 134, 111, 174, 0.98, Paisley
+213, 120, 252, 185, 0.83, Paisley
+232, 194, 277, 236, 0.75, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 5 boxes
+ - Score <  0.7: 103 boxes
+ - Avg score (>= 0.7): 0.9082
+ - Avg score (< 0.7): 0.0398
+
+========================================
+
+Filename: cee41585f92f405a8ff1a636ec9a46cf.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+63, 84, 119, 144, 1.00, Paisley
+183, 91, 228, 134, 0.80, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 83 boxes
+ - Avg score (>= 0.7): 0.8986
+ - Avg score (< 0.7): 0.0045
+
+========================================
+
+Filename: d32bd17d10534d4698cc687d83df003e.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+15, 70, 289, 243, 1.00, Paisley
+132, 71, 178, 146, 1.00, Paisley
+218, 174, 268, 222, 0.98, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 141 boxes
+ - Avg score (>= 0.7): 0.9912
+ - Avg score (< 0.7): 0.0266
+
+========================================
+
+Filename: d486d09d33bc417baca50d534a73f56c.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+63, 55, 243, 265, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 166 boxes
+ - Avg score (>= 0.7): 0.9999
+ - Avg score (< 0.7): 0.0193
+
+========================================
+
+Filename: d6b73516cb4744859ce7d01c8741b3ac.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 163 boxes
+ - Avg score (< 0.7): 0.0317
+
+========================================
+
+Filename: dac6029b94ff4aa1bc6be2840b40724e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+96, 22, 205, 278, 1.00, Paisley
+161, 145, 197, 184, 0.71, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 178 boxes
+ - Avg score (>= 0.7): 0.8524
+ - Avg score (< 0.7): 0.0173
+
+========================================
+
+Filename: e8319803255d421697b2596f0c529f14.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 22 boxes
+ - Avg score (< 0.7): 0.0129
+
+========================================
+
+Filename: e9973e78579644cab0910b96ebb8a8b4.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+40, 177, 264, 267, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 215 boxes
+ - Avg score (>= 0.7): 0.9993
+ - Avg score (< 0.7): 0.0105
+
+========================================
+
+Filename: eb0182b64ac948aa91aaad4fa8df7d13.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+92, 23, 205, 267, 0.97, Paisley
+156, 109, 211, 159, 0.88, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 111 boxes
+ - Avg score (>= 0.7): 0.9256
+ - Avg score (< 0.7): 0.0082
+
+========================================
+
+Filename: f450278099b24602b9915089e5f904a9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+48, 99, 252, 229, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 56 boxes
+ - Avg score (>= 0.7): 0.9967
+ - Avg score (< 0.7): 0.0071
+
+========================================
+
+Filename: f86d095fe31c4687b99886362133eacf.JPG
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 19 boxes
+ - Avg score (< 0.7): 0.0325
+
+========================================
+
+Filename: fcfef6fb90484f83bd937c118c80c9b8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+33, 153, 274, 258, 0.99, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 86 boxes
+ - Avg score (>= 0.7): 0.9895
+ - Avg score (< 0.7): 0.0043
+
+========================================
+
+Filename: fe5069bb4492499489096864c25b3379.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+38, 145, 270, 283, 1.00, Paisley
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 158 boxes
+ - Avg score (>= 0.7): 1.0000
+ - Avg score (< 0.7): 0.0065
+
+========================================
+
+
+Final Summary
+========================================
+Total test files          : 100
+Files with score >= 0.7   : 76
+Files with score <  0.7   : 24
+Avg score (>= 0.7) overall: 0.9267
+Avg score (<  0.7) overall: 0.0200

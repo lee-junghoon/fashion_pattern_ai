@@ -1,0 +1,1691 @@
+== SSD Detection Results ==
+
+Filename: 0059fb03ccaa402a83d6a6a7ecef27e8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+78, 18, 135, 278, 0.83, Solid
+Filename: 007ae01087c548c787d9f73deaa7d515.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+42, 112, 257, 232, 1.00, Solid
+Filename: 008da231d08841c291097e2debf22040.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 009e303a680c4b3fabe47ff11fa9f4e8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+31, 60, 266, 222, 1.00, Solid
+Filename: 00a51aa9ee3a4905aef64252a2d82698.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+30, 46, 273, 257, 0.97, Solid
+Filename: 00d4da2870c946eba7ceb21163e637b2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+34, 56, 271, 236, 0.90, Dotted
+Filename: 00fff0fcb3374e519864603fd10f3195.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 013f3d05653f440ba268ade92f134eec.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 016fb14eb88e4f3390afb81fe42ec6dd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+65, 27, 238, 271, 0.95, Solid
+Filename: 018c7ee40f144fd68f69e1168dac1ea4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+86, 20, 215, 277, 0.99, Solid
+Filename: 01e54b832fea48009609a3b3c0407fa7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+25, 50, 281, 243, 1.00, Solid
+14, 63, 173, 237, 0.73, Solid
+Filename: 025ef3c5042641e9967b45f4b3106890.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 026c4e8f884a4b5ca103c202a74fcc64.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 02a57b6d4a9149bcaad6f6896c20b9fb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+47, 21, 243, 174, 0.96, Solid
+Filename: 02b0ece9f5b24f9196b6f96aec99af57.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+93, 95, 211, 280, 1.00, Solid
+Filename: 02e0a001761d45c8baade67de8da17ad.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+81, 21, 131, 124, 0.77, Solid
+Filename: 02f5aad1cdf74afd8f530b8256b6c9db.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+45, 49, 248, 252, 0.99, Solid
+Filename: 031b0891f08b4d5d929821eeb0e1160e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+76, 23, 136, 271, 1.00, Solid
+162, 30, 223, 266, 0.97, Solid
+Filename: 034ed3b28b584ca7b7c0f773e34bd4a8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+109, 20, 187, 101, 0.93, Stripe
+15, 54, 151, 268, 0.81, Solid
+Filename: 03caa123f2f24a27a827153a00e4fec1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+66, 152, 229, 214, 0.90, Solid
+Filename: 042b60915cae4c6dbb7d3b383ea9c226.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 046c62fe814e400eb76c37216e6a3b8a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 052bb78c01f741bd83803c90f1575142.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+27, 50, 272, 239, 1.00, Solid
+Filename: 052f5f00b4ad42d5af0eb983b4eff59c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+27, 44, 271, 252, 0.98, Solid
+Filename: 05bb02ecd78b48959785036a6d611466.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+158, 17, 233, 298, 1.00, Camouflage
+71, 163, 118, 231, 0.96, Camouflage
+71, 119, 123, 292, 0.78, Camouflage
+Filename: 068accd7d6ca49c991da3466ce0bc044.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 068b36c4452c4e009898f3a6f767ff29.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 06b7343a343d4249ab8a5b1f9fa63f0c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+29, 132, 229, 179, 0.92, Solid
+Filename: 06be4bb6dcb14f5e9346f824a712bce8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+45, 59, 246, 261, 1.00, Camouflage
+237, 69, 284, 263, 0.98, Camouflage
+118, 178, 194, 221, 0.71, Camouflage
+Filename: 06c7f4309d464d9092f58dd1e564bf03.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+87, 136, 221, 233, 1.00, Solid
+Filename: 06d6aded5976498a9417b168b1b7656d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+52, 48, 248, 258, 0.95, Solid
+101, 74, 220, 153, 0.77, Printed
+Filename: 073f281f8f0e48e29ccc1756daeb06b9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 07a7456c00f0410896877cff744823f5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+45, 59, 253, 246, 1.00, Stripe
+Filename: 07bcf120972848e0ab31c9953eb539df.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+18, 39, 281, 273, 0.84, Solid
+Filename: 07be99e39c3a403882b416e6915a5934.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 07e4bb30012e49c2af14953d71c94b77.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 08a1f533b0764299826869e9b6116cde.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+154, 18, 223, 294, 0.97, Camouflage
+80, 14, 144, 297, 0.94, Camouflage
+Filename: 09a048a0fb9142fdbaafdca22ec41779.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 09b3b98d5ff349baa47f4e1e1d2b6188.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 09c742e8baca4ca8a7529f2d63348785.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+62, 51, 242, 226, 0.82, Solid
+Filename: 09de8b2b52304fc2a45c298c223b3a3b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+114, 162, 180, 205, 1.00, Logo
+Filename: 0a03e4527c8f454ea7752e13893b01e6.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+60, 89, 150, 114, 0.99, Text
+Filename: 0a0e9852dfb844aa8c007f09786e5525.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0a0f3e38083b4a7db9a909112d941bd1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0a219a424b5d4ce992fc980859ff79b2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0a96fef0e11b4ec3aff6dc484894f646.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+88, 162, 266, 217, 0.99, Solid
+Filename: 0ac7c681904d42e9916a343b4cf44f24.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+29, 44, 270, 226, 0.98, Solid
+99, 198, 185, 243, 0.78, Solid
+16, 91, 79, 268, 0.76, Solid
+Filename: 0aead8b88b6e43e6bc3fd74c6e845081.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+29, 70, 272, 215, 1.00, Solid
+Filename: 0af676cc99aa45918aca7a74150ac64c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+154, 115, 284, 249, 0.98, Solid
+8, 71, 152, 258, 0.89, Solid
+Filename: 0b35d5850626481491ca308ef57de4c8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0b8c4615c0a04dd18e6f78393380c1f7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0c1441f46752458d956a7e0d79e2a50a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0c67df623aff4382ae1ec0795cfec15f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0c75cfc619324143ad55dfe6e93bd445.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+15, 59, 61, 149, 1.00, Stripe
+176, 61, 237, 140, 0.87, Animal
+Filename: 0c8e8c920e814a6dabd9db4d58c09aad.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0cb2ac8adb80476ea8423c16c9492dca.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+78, 38, 137, 276, 1.00, Solid
+155, 10, 215, 222, 1.00, Solid
+81, 17, 135, 181, 0.84, Solid
+Filename: 0cc9b261bf6f4f8285235afbd582a8b8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+54, 41, 242, 253, 1.00, Solid
+Filename: 0ce228595e844cdcb268e16fb41c887f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0d08433124ac4aceb1173e1eb09be9a2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+77, 15, 138, 275, 1.00, Solid
+163, 15, 219, 261, 0.99, Solid
+Filename: 0d0f0e3333f54e1ab35187972608d4f0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+39, 145, 251, 225, 0.92, Paisley
+54, 152, 129, 218, 0.84, Paisley
+Filename: 0d30d427a9c1444bb28bae956beacb1f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0dd85d2f5b724e8cb66ffd97970e3792.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0ded971cbbaf4a02a2c9cdf4efc191bf.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0e186a84b66a4a93ac2bac907db7dbe6.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+209, 167, 258, 229, 0.93, Animal
+Filename: 0e4f4cc514414e61b5891cf3d078be7c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0e5ece1e5c4245cdb0816f41021124b4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+28, 74, 273, 237, 0.77, Checkered
+Filename: 0e5ef197c4104bd79edd92d730732cc2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0e74a473762643a2966edccccd03e27d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+95, 124, 185, 165, 1.00, Text
+28, 60, 91, 129, 0.98, Paisley
+Filename: 0e85a204c3ef4d9aba2503b7a808772f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+13, 41, 142, 263, 1.00, Solid
+20, 38, 285, 259, 0.98, Solid
+Filename: 0e963f70fdb14307b6491398163f5295.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+17, 50, 280, 263, 0.99, Solid
+Filename: 0ea3355adb66419abb064d17869b0368.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+43, 99, 256, 230, 1.00, Camouflage
+171, 134, 226, 184, 0.84, Camouflage
+Filename: 0f3a8f5f03464267a969f7aa12b10939.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0f4f6cdccee548968964981bbee4c3f6.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+48, 198, 276, 249, 0.95, Paisley
+Filename: 0fa130fbc57744459f7be5c4938f62d3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+34, 69, 270, 226, 1.00, Paisley
+38, 88, 86, 137, 0.97, Floral
+Filename: 0fa15a1ace864ddf9a564e3079a2602a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0fb7904ad5524d58bdf1291a982f6382.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0fc12df9099b4c07825a18d5ada3b771.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+75, 49, 245, 247, 1.00, Solid
+Filename: 0fcfc579f84147b4977a9c1173974cf3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 0fe76c3bb03e4157a507eeea99494908.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 10be3f9101a34f3a8859e7db5b7696a8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+163, 11, 227, 278, 1.00, Solid
+76, 10, 138, 253, 0.95, Solid
+Filename: 11bd8b75446141b5baeb05af4f650a75.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+47, 64, 264, 236, 1.00, Solid
+Filename: 12acb7827e934f0da2f22b0c6d4e2de2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+231, 65, 285, 259, 0.89, Solid
+22, 37, 266, 253, 0.88, Solid
+Filename: 12e53132d0c445ef9135faf698438884.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+71, 89, 233, 226, 1.00, Solid
+Filename: 13a0cafde7f245a1916e0b85d67db5f1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 13d6d3a5d43643e4bc740776017c2f10.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 13e7520d3971463d85d56c48afe8516d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+124, 151, 265, 226, 0.95, Solid
+Filename: 14f77b2e8ff04c2c8463ae19f3395cd0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+233, 204, 289, 278, 0.93, Pocket
+Filename: 16a81420a6c94497b3e606d52dadbcdb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+35, 61, 262, 220, 1.00, Solid
+Filename: 16cea095469a495abe0e46740b3f74fa.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+71, 15, 233, 289, 1.00, Solid
+Filename: 17de4b9c64b1498199b4dc1b499c44a0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 18aa51584b6b481ab4d693ec3a796017.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+26, 197, 155, 239, 0.91, Solid
+Filename: 18bed00ccedc4c34b7aed34845b417c7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+23, 37, 263, 273, 0.80, Dotted
+50, 35, 138, 273, 0.71, Dotted
+Filename: 18dfe7143f3841678a03abe953e4ac74.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+41, 83, 258, 234, 0.71, Solid
+Filename: 18e84444f26c4b149447f45312f62dc4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 18f13bcc88484a67a2bde7bf63a0a5a0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+44, 40, 92, 138, 0.76, Solid
+Filename: 19eb4a300eaf4f0a874d2b03bfac8f02.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1a09e68c47454251995c1344d7af38ca.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+47, 191, 244, 251, 0.91, Solid
+Filename: 1a2fd1d93ce644cf94fe712feb6f7b49.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1a33fe6f10f8450e827b7a69cd7e72c6.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1a5fe545043a4bbb9e4910c2958d3f45.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+45, 149, 253, 214, 0.79, Solid
+Filename: 1a898ea5f39a42349ef9fb1ed3b7b72d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+87, 8, 141, 274, 1.00, Solid
+154, 19, 210, 211, 0.72, Solid
+Filename: 1a8c9ed9168a47608a9bf7dc38b73dac.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1ad32f76d3a9413890f43ac449a834de.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1b076ef0c35a4946ad0d381d8c3b171d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+71, 71, 238, 287, 0.78, Stripe
+Filename: 1b3a36d4faf14179bb789f65c7b59d71.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+177, 102, 246, 156, 1.00, Pocket
+Filename: 1b70fbaf23cb416d8937fc20aabf7719.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1b736b49a59146cea7211d1778acc13c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+70, 15, 143, 280, 0.97, Solid
+Filename: 1b76a1ed050c4e7982e56a85cad68853.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1b9da7a47dc74ac39abd9432b0c7bf87.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+31, 143, 148, 221, 1.00, Solid
+Filename: 1bead2a8948d4122b477bea1abf02a27.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+42, 46, 248, 233, 1.00, Paisley
+15, 65, 60, 241, 0.99, Animal
+117, 158, 165, 211, 0.96, Paisley
+Filename: 1c17479fe633449e8f34902a1581e104.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+165, 26, 225, 279, 0.81, Solid
+Filename: 1c486c3635cb41969f341c1e8b833c56.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1c9d7e5799334424abd755fe5d77b79e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1cdf1e81c0144c25a0df5c222f9046a7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+23, 110, 262, 193, 0.94, Animal
+Filename: 1d2d81e562f64268aaf87a76707039c0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1d57161dce994d68b596e4added3c56d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+36, 50, 258, 250, 0.99, Solid
+22, 130, 134, 258, 0.91, Camouflage
+Filename: 1dfb079c31f343328d693920172d6023.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+36, 46, 244, 266, 0.99, Solid
+Filename: 1dfca07f48644398a440a452cb7297ef.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1e447a34f7c2427da666f4ee5e1391cd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1e82d692c8354eff96fe947c14abc662.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+25, 151, 144, 223, 0.98, Solid
+Filename: 1e98a604a05c4f72b47418a980ed434b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+116, 191, 180, 235, 1.00, Logo
+Filename: 1edb27d56af1444aa399f4b94ea356cd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+59, 16, 239, 145, 0.91, Solid
+Filename: 1ef664ce3faf43ffb0d642d5ccfac35e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+44, 147, 260, 284, 1.00, Solid
+73, 9, 225, 144, 0.99, Solid
+38, 154, 280, 285, 0.81, Paisley
+Filename: 1f19d885de604546a5e8e46825f272ae.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1f3f5f5b076f49ada4e10504e78043f7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1f62e35dd75d422e9bb2442d31da8cf2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+34, 153, 172, 228, 1.00, Camouflage
+Filename: 1f6cc964d1ff4739bd68c1be8514bf19.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+163, 14, 223, 280, 0.95, Solid
+Filename: 1f73e6789c224073bb18ad5cde51ab78.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 1f8406aecf6f45378c8474579a9bc7c5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+56, 55, 242, 250, 1.00, Solid
+3, 62, 89, 142, 0.79, Stripe
+Filename: 20a6210356f24689a1a26770d874db02.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+26, 30, 263, 182, 0.99, Solid
+Filename: 20bb9b413cec4f39a603cba7adccfa39.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+160, 17, 222, 253, 1.00, Camouflage
+78, 19, 136, 254, 1.00, Camouflage
+92, 4, 209, 22, 0.86, Text
+Filename: 20e0cb649963428ca3d556ce8fd98cb3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 21c8f709428643f9a0cd7441afee64e0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+38, 56, 267, 246, 0.99, Stripe
+Filename: 22fc8e1d161147b184d4cc31537d63f4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+160, 19, 217, 271, 1.00, Solid
+82, 6, 137, 282, 1.00, Solid
+Filename: 24cbc662da2b49dba77bf00e2d5be19d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 24f1031cd2814c53a3feea4828921f50.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+74, 186, 226, 209, 0.92, Text
+Filename: 24f594ed0ec1416dba44d1e79f2a74e8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+36, 78, 268, 277, 0.90, Solid
+Filename: 25a6d4e917494b8aa74d95a6c2eb5450.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 25b85f77ec5142b1bf933d3b4c2d9998.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+132, 147, 260, 221, 0.75, Solid
+Filename: 25ba621fcaf14de1b4d36b115be42316.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+167, 35, 222, 252, 0.99, Solid
+72, 30, 131, 261, 0.99, Solid
+Filename: 25eb32432d9c4b8ca3f990b4d549a25b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+44, 40, 146, 294, 1.00, Solid
+47, 26, 258, 271, 0.82, Solid
+Filename: 27c992b4bae1469dbdabd8a1837ad492.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+193, 110, 241, 168, 0.95, Animal
+Filename: 28b317d7d6994b038a7e7bd65f805869.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+42, 135, 258, 245, 1.00, Solid
+Filename: 28ecce3055ec450ba0aeaf73211fde23.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+133, 44, 176, 84, 0.91, Floral
+156, 47, 183, 73, 0.88, Floral
+Filename: 29a777a1324149be96a9343c3d42fe31.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+64, 53, 244, 271, 0.90, Stripe
+19, 85, 63, 136, 0.81, Stripe
+Filename: 29e3778b7cab49b498f391d0a96afffb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+28, 42, 274, 227, 1.00, Solid
+Filename: 29fd3ec3d2254cd59fcccf7e75c18bfd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+72, 263, 123, 294, 0.94, Paisley
+170, 105, 220, 144, 0.93, Paisley
+188, 44, 229, 98, 0.87, Paisley
+102, 68, 149, 104, 0.86, Paisley
+138, 11, 180, 65, 0.84, Paisley
+110, 72, 167, 98, 0.75, Paisley
+Filename: 2a019a4fb07048169e703e1bf424682f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+46, 29, 252, 194, 0.75, Solid
+Filename: 2a2a59a8411846aaaedb72d9f9b26e6e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+224, 135, 291, 264, 1.00, Stripe
+11, 118, 61, 246, 0.99, Stripe
+Filename: 2a3d6b953eae46fa823408e150927578.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+61, 221, 93, 234, 0.91, Text
+Filename: 2a76f6b405bb4c41954ad2d7e7feb9b2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+159, 16, 216, 293, 1.00, Camouflage
+75, 15, 149, 297, 0.95, Camouflage
+Filename: 2ae8cef3990645a0aac1dd22f22df60c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+116, 66, 159, 120, 0.94, Stripe
+Filename: 2b132012c872472b82aae00fa2077138.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+38, 51, 265, 212, 0.99, Solid
+86, 70, 136, 105, 0.77, Pocket
+Filename: 2b85b1e2ed8341cf9c5942ad147d04cd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+167, 92, 233, 143, 1.00, Pocket
+66, 96, 120, 144, 1.00, Pocket
+20, 48, 278, 262, 0.94, Solid
+Filename: 2ba8aad1511543d3b8253bdaaff8b5cb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+67, 148, 230, 227, 0.87, Solid
+Filename: 2bba25bacaab40fbabe74c179fe9b0ab.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 2bc1ff411fb443bc8a761f8897775cff.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+52, 48, 252, 231, 0.97, Camouflage
+53, 151, 148, 229, 0.81, Camouflage
+Filename: 2bf8096482cc488b815e4d0e5ec58e61.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+32, 75, 270, 229, 1.00, Solid
+Filename: 2c01f9650a044645b1fd625e36dc9fb5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 2c3f8bdd4a00476aaad77b1b636e3ea5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+154, 120, 277, 213, 0.79, Solid
+Filename: 2c625905fca14c8e96a8eca9c83b899d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+22, 37, 273, 244, 1.00, Solid
+Filename: 2c834ba41e4a41bfba496d5cb3ed7738.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 2c873b8bd68149b68a0157e31428a285.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 2cab70b42ddb416eb43a5b552aaf4fb4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+156, 92, 205, 280, 0.98, Solid
+Filename: 2cc99b269abb4f0bba97253411c6777d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+47, 21, 251, 279, 1.00, Stripe
+Filename: 2cdf692f5acc4d94a2bcb1f32468303e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+236, 74, 281, 257, 0.81, Animal
+Filename: 2d6919a45e154c588567c36fb29b6a78.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+220, 82, 285, 252, 1.00, Stripe
+17, 43, 58, 232, 0.99, Stripe
+63, 41, 234, 239, 0.93, Stripe
+Filename: 2d7142a712d043fbbe689b3055c4b4e9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+73, 15, 136, 203, 1.00, Solid
+162, 20, 226, 263, 0.99, Solid
+Filename: 2dc47fee0e0146bd8f84aa03445bb7c3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 2e018747e3514b88b3bf2999ef088656.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+37, 154, 272, 220, 0.99, Paisley
+40, 161, 86, 185, 0.86, Paisley
+Filename: 2e1c67a6cda34de4a5c3a24ab1c90971.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+121, 201, 177, 244, 0.93, Logo
+Filename: 2e213afe12e54ac1bfd4d8cbc36a4672.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+42, 148, 259, 238, 0.87, Paisley
+50, 189, 75, 211, 0.80, Floral
+Filename: 2e3ea18a54d2498795ac713de827f91b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 2e6976f95a284c02873060308a236929.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 2e775d48cf3a47e2a78d6b4e1929b782.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+27, 47, 273, 224, 1.00, Animal
+236, 60, 284, 251, 0.97, Animal
+Filename: 2e7f5d0c660240d78bfd4bdf4511bc43.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+54, 51, 239, 251, 1.00, Solid
+191, 55, 272, 154, 0.95, Solid
+Filename: 2e81b2fdef50484c9376c26da72bb1a2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+40, 50, 268, 248, 0.92, Floral
+34, 44, 268, 248, 0.90, Dotted
+Filename: 2f52410d360e42e0925b6bc86205eba3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+61, 41, 236, 262, 1.00, Floral
+Filename: 2f642ef4d3fd4bd6b93a74219c2ed497.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+42, 142, 259, 243, 0.99, Paisley
+Filename: 2f690b9a55e74ff2b883aa02bc8f879e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+22, 37, 273, 253, 0.99, Solid
+Filename: 2f946cfcd25e474dac316ed676ca389d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+57, 59, 245, 248, 0.96, Printed
+Filename: 2fb9902137b148218acb5f64d4829573.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+126, 174, 191, 230, 0.98, Solid
+119, 171, 192, 230, 0.82, Stripe
+Filename: 2fbd94608db348e08a359eff89548ac5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+47, 81, 256, 230, 1.00, Solid
+Filename: 2fe71de96caf4868bfd3157ddeaeb1f5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+153, 203, 232, 244, 0.73, Solid
+Filename: 31e90d7c0372486282b539609432613d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 31eaaa43038649558a3a9692e36584eb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 32f9a683ce154b3d8b06b6f41f741def.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+40, 59, 250, 194, 0.82, Stripe
+Filename: 34b5c61385f64c858a366a04add3a630.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+111, 97, 199, 190, 0.87, Printed
+108, 94, 193, 188, 0.81, Logo
+Filename: 34d3552a624b4b37bb6f995c352c2f44.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+96, 26, 225, 288, 0.99, Paisley
+Filename: 34d81ddd1b044f0ba1367808eaf28198.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+10, 129, 94, 203, 0.85, Camouflage
+Filename: 34deac5ff0e844aa8aa662fdd7c19b39.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+76, 57, 233, 264, 1.00, Stripe
+10, 95, 66, 160, 1.00, Stripe
+Filename: 35a75168f5a34bc98c20c1b853f5ba55.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+119, 191, 177, 227, 0.75, Logo
+Filename: 35b5751fc23d42fd9fbe896c9c0a89f7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 35d551c46bce47b88b8be4279f457408.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+47, 138, 234, 189, 0.96, Solid
+Filename: 35e0bb9d140b44a9bc691e78a7ae8ca1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+39, 140, 262, 240, 0.88, Solid
+45, 145, 258, 242, 0.83, Checkered
+Filename: 35e8bc67020f4f67a36432fcc2fbb4ee.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 37e1fc3f10a442a482d06fd65485a91b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+80, 21, 212, 281, 0.86, Paisley
+Filename: 37f60e8af141462d9011920b452126fb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+30, 53, 274, 262, 1.00, Solid
+Filename: 37fce7af534442499b68f7f2448a0597.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 38acc2f851c54b5fb1c07d9341d33c3e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+33, 220, 111, 248, 0.99, Text
+Filename: 38ba980ca6e54f3dba4fe207511aa25e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+42, 151, 237, 208, 1.00, Solid
+Filename: 38bf8aa84d7340aab6f9dca2fe0bcc38.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 38d31de1b4ae460cb1dfd77f5da00489.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+47, 74, 260, 230, 0.90, Solid
+53, 70, 257, 229, 0.83, Camouflage
+Filename: 38d54904a43c439cae5f4114f15573e1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+23, 84, 271, 226, 1.00, Solid
+Filename: 38d7113101ab452caef5600bf97e0b6d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+56, 147, 243, 220, 0.86, Solid
+Filename: 38d8fc8d98ff4f39b3942bac17f3f5f3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+48, 54, 251, 257, 1.00, Stripe
+Filename: 38e8915aa0574ec6872f5c1fb472d6ce.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+34, 124, 263, 252, 1.00, Paisley
+Filename: 39c67a0ef6d14c02a245321b4eb8c479.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+110, 57, 201, 78, 0.76, Text
+Filename: 39d131cbfa644fc6b0e71743f6aadc4e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+53, 46, 243, 238, 1.00, Stripe
+Filename: 3a1d03f7794540468c1bbcc063ecbde6.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 3a1fb62e12504cf3baa394cb8e4347de.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+46, 60, 256, 250, 0.97, Solid
+62, 63, 260, 245, 0.78, Camouflage
+Filename: 3a2f03b7b3f24074841fc7be134c0e0e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+111, 9, 184, 57, 0.86, Solid
+Filename: 3a307395919d431ab58c9f7113d0beaa.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 3a42c147f9c84c04b8fd22f415a55fab.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+36, 76, 267, 202, 1.00, Paisley
+Filename: 3a6f747bcf4e4727a6868620fa1d3908.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 3a70fcc072894be8856203eb79ebc2c1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+88, 13, 168, 216, 1.00, Solid
+Filename: 3a79944b1a834d65863a3497d9b5fd4e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+111, 186, 234, 197, 0.87, Text
+73, 180, 178, 198, 0.87, Text
+Filename: 3adfefa0d8c24e6a8c487a98eefacc49.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+68, 59, 232, 249, 1.00, Solid
+17, 93, 82, 238, 0.74, Animal
+Filename: 3b48ee2b37744d7e9b08d78443d09a05.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+94, 203, 187, 237, 0.97, Logo
+Filename: 3b7bc27157f3487fa9ad406ff3804b98.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+96, 182, 170, 229, 0.93, Logo
+Filename: 3b7c9600ffc04b8d96bf7c0ba550328b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+48, 67, 247, 238, 1.00, Solid
+Filename: 3be72d2fb6e84293801efb458a302d61.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+54, 58, 244, 248, 1.00, Solid
+Filename: 3bf89560c5ae4e599bf3e0b33f8cb66b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+52, 31, 254, 267, 1.00, Solid
+Filename: 3c05e8e13cdf4f6895d32ec9f0e0ebf1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 3c19fc1c37784323abcbf15052569146.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+40, 32, 262, 259, 1.00, Solid
+210, 20, 284, 131, 0.87, Solid
+Filename: 3c408ae2a33c46aeb40d3b445c031f6d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+57, 29, 242, 225, 1.00, Paisley
+Filename: 3c79fb1f3bf54d20b11489814371c677.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+84, 22, 139, 267, 0.98, Solid
+Filename: 3c7ed320bcef4f86a970c8a4d103558c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+66, 98, 197, 276, 0.95, Solid
+37, 31, 122, 105, 0.92, Solid
+Filename: 3cb86a2f07ae438db47b95959b41acd1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+168, 115, 228, 161, 0.99, Paisley
+101, 129, 147, 165, 0.91, Paisley
+163, 148, 229, 197, 0.83, Paisley
+Filename: 3d2f8a9b478c42608e942194876af0dd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+166, 25, 226, 267, 1.00, Solid
+69, 17, 228, 266, 0.99, Solid
+64, 22, 132, 264, 0.99, Solid
+Filename: 3d33154abc9f4b39bdedf22341b1f34e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 3d3cc5111bae4eb3ab7c57a9d89ff929.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 3d606d60fe524f23a0cb8befc59d6829.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+159, 23, 214, 258, 0.70, Solid
+Filename: 3d89f0cdbb174c44b05f24b996dc92a3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+58, 63, 122, 112, 1.00, Pocket
+173, 59, 240, 114, 1.00, Pocket
+Filename: 3e2c7bc81d7a45748477296224858e69.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+48, 54, 259, 250, 0.99, Solid
+Filename: 3e7364ef73474ae0a366f7cf3d620a0e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 3e7f6925188e4ba4b3c94714e3fce650.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+162, 160, 235, 230, 0.98, Animal
+Filename: 3ed0b2fe0b814c6f9a67dd84ab079ec6.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+81, 14, 139, 279, 0.96, Solid
+Filename: 3f13cff961944423bb610a1be00caa71.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 3f2eea8d6a05433c86f34cf01613b524.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 3f4c982aa8b541739aa97f7586d26b15.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+91, 78, 222, 146, 0.98, Printed
+Filename: 3f6ee548ac9341ac9e0d6ba9af55c8d9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+18, 149, 83, 199, 0.95, Solid
+Filename: 3f823eb2d2684b3abe5bee98591c1a3c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+10, 32, 123, 168, 0.88, Animal
+Filename: 3fa4ea4913034b6a840b60f56f6eceb9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+64, 169, 216, 269, 0.87, Solid
+Filename: 3fc869020a0a4626ac0fe0e1a42e5dfd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+31, 41, 268, 220, 1.00, Floral
+60, 125, 106, 167, 0.97, Floral
+150, 61, 198, 108, 0.88, Floral
+150, 130, 200, 167, 0.86, Floral
+Filename: 3fd0f37f37044bbda2b1900e7d242c71.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 3ff5ec80eeb94ba9a33fbe9785cc32bd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 40a9690c0a83487b8273861d42e28a11.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+163, 32, 215, 260, 0.99, Solid
+82, 28, 219, 261, 0.97, Solid
+79, 40, 138, 253, 0.94, Solid
+Filename: 40dd294177e141bfa11db668fee50b94.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+32, 120, 108, 173, 1.00, Animal
+190, 117, 273, 176, 0.93, Animal
+Filename: 40df054a94c54c209682b1ac5e153b20.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+27, 109, 269, 229, 1.00, Paisley
+126, 176, 172, 219, 0.92, Paisley
+116, 122, 179, 164, 0.82, Logo
+Filename: 40f38616da1b46de87fb9da3963945e4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+172, 187, 229, 251, 1.00, Pocket
+59, 188, 122, 253, 1.00, Pocket
+33, 61, 257, 252, 0.99, Solid
+Filename: 41d77454320b400da76d2d565f9d75cc.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+51, 33, 246, 251, 0.75, Dotted
+Filename: 41fb22ee76304874adf718a472065ab8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 42dba1f187094b56a81c7c2c2fd9bcf4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 43ecf843830942fc865f1d02859ed98b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 44ba7e7e1a5d4cba9cb8f247a4e9015d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+58, 19, 243, 139, 1.00, Solid
+84, 144, 214, 163, 1.00, Text
+Filename: 45ae1d6cefc747148b250b4dcd208454.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 45bb8859e72942939b9b228899ef1b7a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 45ff19563a5c441eb2d58043b7ce6ccb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+58, 157, 242, 252, 1.00, Paisley
+Filename: 46a828e9cc974a7d9033a1c282015f3b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 46cca851ad2e4d52bf691abc72681f80.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+41, 159, 264, 250, 0.82, Paisley
+45, 157, 128, 248, 0.77, Camouflage
+Filename: 47d03638328d4c248e5bac4c20082ba4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+50, 67, 118, 163, 0.98, Animal
+Filename: 47ec730679e74a8e81368d6ea3f654e1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 48d53376132f464d8135ded492b57baa.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 49b0b4b9c62e4ad19f812b4cda3f5ff8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 49f16bde43374688a7b8e28069c43cfc.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4a2b6e68f57441ed8eef1b910a989908.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4a8a58ad311747fb97191fe93c31c6a2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4a9a32776f524313b453479af9f1c5ce.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+34, 49, 269, 233, 0.87, Solid
+Filename: 4abe6f2bb1364af89562e05af46c2bb8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+69, 124, 230, 234, 1.00, Solid
+Filename: 4ae4b03f574042d0b39697afc14ad777.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+51, 146, 253, 220, 1.00, Solid
+Filename: 4b2e7d4d4b5a4fddab0ff59e07fc8ab3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+32, 47, 263, 248, 1.00, Paisley
+109, 78, 171, 116, 0.75, Paisley
+Filename: 4b8c0525da344d6d8d3db77c0007b52d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+44, 37, 132, 206, 1.00, Solid
+Filename: 4b8e9469e86942c3a501d42f839dd212.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4bb7253cb23f42cbb253e0a7ed942799.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4bf0268bb7974dab8749fd4fb520cc4e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+205, 19, 269, 112, 0.93, Solid
+Filename: 4bf6cdf02cae4b94808a7b59d3457155.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4c00056db43443c0b68ef73b444979d9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4c6f678ed45f4e8e9e4d96503ee85fb9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+92, 182, 214, 192, 0.98, Text
+Filename: 4c8e3b8f54334b84a685bc354a4668fd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+33, 152, 275, 259, 0.99, Paisley
+Filename: 4cba563a2a3943998451bf3964ee981b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+52, 57, 252, 247, 0.94, Printed
+55, 55, 240, 243, 0.76, Floral
+Filename: 4cd4b7b69a274cac81d24b7e9cad3d78.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+157, 11, 225, 277, 0.96, Solid
+73, 30, 135, 272, 0.92, Solid
+Filename: 4cfd40797b1348e1a55c77d94bdcd051.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+89, 36, 218, 282, 0.99, Dotted
+Filename: 4d1ee83c01364a698a256af11730e86c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+54, 50, 257, 274, 1.00, Stripe
+Filename: 4d1f7f52874e4a75977906153480df6c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4d607376062a49e289db75b690af9f59.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4d9d8f2938d14c7580a79da542c804b4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+53, 56, 253, 252, 0.95, Solid
+23, 62, 141, 136, 0.77, Solid
+Filename: 4deafa98d5ec4cfeb4700ed0d086ce63.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+126, 204, 178, 231, 1.00, Logo
+64, 168, 240, 224, 0.99, Solid
+Filename: 4e3cbe6c3ec14ec28196a77d09586ac2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+175, 151, 269, 236, 0.94, Solid
+Filename: 4e781408e21343beaddfdec183f7445c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+168, 64, 226, 272, 1.00, Solid
+60, 21, 134, 263, 1.00, Solid
+Filename: 4f0b77d6e0f14f5fafde506897c7443e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4f1dc5b680ef4c4cb9f9a86f17e74edb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+62, 121, 238, 233, 0.97, Solid
+145, 126, 244, 227, 0.87, Solid
+Filename: 4f2f158a95f24fd284582103712adfad.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+168, 101, 215, 161, 0.71, Paisley
+Filename: 4f61e157360041bea139a260861fa4c3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 4f86f02ce816420b844725bd5766afa7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+26, 32, 141, 282, 1.00, Solid
+Filename: 4f95510b080e492c9b0f60e45abc5416.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+107, 140, 193, 230, 0.90, Solid
+Filename: 50de12263c264e4dae0f67330560b1c3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+52, 64, 252, 242, 1.00, Solid
+Filename: 50f21ed76ae34b838df21ebf662a0168.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+119, 78, 160, 113, 0.92, Logo
+Filename: 51b25ffb490e4cc2b11e2b81462199f3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 51f371cdb29c4876afb92bae11dcf48f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+97, 70, 140, 126, 0.98, Printed
+Filename: 51fc684ca309402d9013c207da4c0748.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 52e3cc18e4d74112a03092658e766b56.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 52fba614963f466a9a4a98e40f698b69.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 53b579f99dfc48b98f84cfa31f4ab905.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+17, 51, 283, 273, 0.95, Solid
+Filename: 53d2ebb9ebe44a2593a9bbc64cc57512.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+55, 75, 243, 243, 1.00, Solid
+Filename: 53e371f2a96942449e45bf8ebab7103e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+158, 48, 210, 277, 0.71, Solid
+Filename: 53f5af2d4d894ae69c8de0a7de3c55b7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+13, 159, 133, 254, 1.00, Animal
+34, 214, 138, 247, 0.97, Animal
+11, 159, 75, 244, 0.77, Animal
+Filename: 53fc640b2b0f47f9b096b7813198ed19.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 53ff2aa9c72c49dea6367792bb7dc489.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+63, 27, 143, 283, 1.00, Camouflage
+60, 211, 127, 264, 0.96, Camouflage
+154, 35, 235, 266, 0.95, Floral
+Filename: 54e61c683292420c833f7808dd52bba7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+70, 18, 99, 80, 0.87, Floral
+151, 251, 197, 294, 0.72, Floral
+Filename: 55a4b1dfb0094ddd9441eb9879e9c74f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+39, 175, 247, 238, 0.98, Solid
+Filename: 56c4a48581f440f581de8a4ac81731fe.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 56ec4eb9cb454bb49b670162830faff1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+45, 52, 256, 247, 1.00, Animal
+9, 63, 57, 256, 0.77, Animal
+Filename: 56fe6407bc65444fb414191c0417d07d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 57b13e8097bc440bad8ef72d2ef66575.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+44, 55, 252, 224, 0.97, Camouflage
+Filename: 57d6f7efe3454a4da826b5a11f368806.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 57e20ac06fd046debbc2d1bcea3842e8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 57fdaabe67bc451793c665b99b1df2e3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+54, 45, 230, 151, 0.98, Solid
+Filename: 58ceaac44fb94d04bb3aba9aaf650ce1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 58e39c84961046ddb0387e139a530165.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 58f8628856a14bb08eac9cc08f592c8d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+156, 16, 235, 275, 0.99, Solid
+Filename: 5a39c43c62db4518a17ec61315168f5f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5a3df6ffc6d54b3fa88963bd154b211c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+30, 57, 270, 246, 1.00, Solid
+170, 67, 284, 233, 0.70, Solid
+Filename: 5a747fc9982f45ca9b3e1a02c5be07be.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+34, 62, 268, 244, 1.00, Solid
+Filename: 5a77cee9a448499f81624c0e02d6f31b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5b2332c2bd7242cc8b9621877a6af315.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5b795da90e8e4bd2805d0b5b88797e2f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+164, 27, 224, 276, 1.00, Animal
+Filename: 5ba178b0626d41f28fce15f2dbca141c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5bbebba849954e209f014a4cc9c78a9e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5bec0ce0d32447c3bdf3b3116a37eab3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+81, 130, 219, 279, 1.00, Solid
+Filename: 5bf373f434ea4bba99e750ad5ebe51f9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5bfd5cfa87ce4ab4bb9eaf204795d2e4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5c1b01ac9f6b4cac839077e997aeaa7e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+38, 170, 266, 248, 0.93, Stripe
+Filename: 5c216c9ed452413f8dfe0a096143f5da.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+6, 61, 58, 155, 0.97, Stripe
+35, 28, 256, 178, 0.95, Stripe
+Filename: 5c53824e518146528635b758ad82c326.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5c6474ee06c1464d967386171bf3ca3a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+77, 188, 219, 245, 0.93, Camouflage
+Filename: 5cbd695b1ba8455ab4a0d119294cc6c7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5d381a15291c482d949c6c85e4f45f94.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5d3a61455fdd4cdcac0641d31dc2a66a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5d7b2a2b2db34f59864023bfecb91afd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+160, 61, 286, 252, 0.89, Solid
+13, 63, 144, 240, 0.83, Solid
+Filename: 5d93cdf604e743b09a0cd287fd4cb60e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+20, 71, 199, 228, 0.94, Animal
+Filename: 5dcd4189c24a4ae39994bbe04fead4a2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5dd59d5dfa574fa2b49a18d4e16f315f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5df396d5df494daf985b34118286372a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+85, 196, 217, 253, 1.00, Solid
+137, 24, 176, 141, 0.81, Solid
+139, 10, 188, 188, 0.71, Solid
+Filename: 5df7ebe8a3dd4fb7b8f7c1f9eeb4a78b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+79, 16, 136, 260, 0.97, Solid
+159, 22, 222, 258, 0.93, Solid
+Filename: 5e15c91542314d29b24885d5e3998749.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+108, 235, 162, 282, 0.98, Floral
+Filename: 5ebe0d621e8241da8d31da0fba1e619b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+248, 131, 285, 188, 0.97, Printed
+Filename: 5ece1f7480df4f718b1d519f3cbf0c9d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+47, 55, 244, 220, 0.96, Solid
+Filename: 5f0a473ed1a749eba692e4744ed55f9e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5f155b4688bf4286bc76dba5a4f6eaaa.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5f294865449044baae060ad5c7f7af45.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+51, 64, 269, 252, 1.00, Solid
+Filename: 5f2df2b63cfb49d099988439ff7150ec.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+35, 59, 269, 229, 1.00, Solid
+201, 77, 255, 119, 0.92, Printed
+Filename: 5f30602f799343a1a44f488e1d152dc5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5f4b5d2fcdf24ceb9452e3b8824c75e1.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 5f7bd0f32adc44cab55bf34a70ef4ff4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+23, 47, 282, 262, 0.94, Camouflage
+35, 52, 262, 256, 0.77, Animal
+Filename: 5fa8e34f1517475892d0bb9e1b73ce1e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 60ba1ab61289463b86a31fe05ac90fee.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+74, 18, 137, 179, 1.00, Solid
+74, 25, 215, 238, 0.99, Solid
+Filename: 60d5234235f0402a9a199d4f16a80d18.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+47, 200, 172, 228, 0.87, Solid
+Filename: 60dbe186f6724c03b186d0064bfefd78.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+41, 61, 256, 236, 1.00, Solid
+Filename: 61d05da660b44fd6bc690a90f2c1a44e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 61f6a13a04614a6d9ca55a2c947f5177.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 62bf8e016c36459f93ca07c961a32e41.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 62f8e6fb01374d6fb9354b467e1588c8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+31, 105, 262, 222, 1.00, Paisley
+128, 163, 192, 203, 0.99, Paisley
+52, 163, 114, 209, 0.98, Paisley
+117, 122, 180, 155, 0.89, Logo
+Filename: 63ca61dece2e4313a98a32eabc39adb7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 64b40e72954a4635acc1ecdc86071f4a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+35, 76, 263, 215, 0.76, Printed
+Filename: 64c9945f7ff84601a45e09278ccb9fbf.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 66ac0e4c709f4df993ac1d774cea3802.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+61, 53, 250, 261, 0.75, Solid
+Filename: 67ab1b3d113f4744b1cf4e8b512dad3f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+82, 76, 231, 263, 0.96, Solid
+Filename: 67e3205f415441eb9bf29196a131931b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+80, 17, 220, 279, 1.00, Checkered
+Filename: 67e84af97a0a4f949231ef3ad95b8054.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 67fb4288d6d1490a86a0bad1c00babb4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 68a774958a4f4a8393e5ad09f0e61bf3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+54, 43, 261, 255, 0.98, Camouflage
+Filename: 68c05a11ebd647ab802991b37ae78dbf.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 68f5a60e3ef84475a20b3a2c29bd76aa.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+48, 60, 256, 238, 1.00, Solid
+166, 101, 225, 146, 1.00, Pocket
+Filename: 69b5b1c8e1ce47bdaf5d3b046a4b2744.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 69e3fa18961846019a493b0b3df6ee97.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 69fc5084f766419eaabc44d1cc377946.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+57, 59, 241, 246, 1.00, Solid
+101, 101, 200, 114, 0.95, Text
+Filename: 6a1988bf79d446f2a8ab56c6aabd4641.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6a7f817ff8594a0eb1806c74520c03f6.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+86, 63, 221, 170, 0.99, Printed
+72, 172, 232, 265, 0.79, Solid
+100, 85, 205, 152, 0.78, Printed
+Filename: 6ab36e95342543b8b0f67de10a0bd793.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+31, 33, 140, 282, 0.88, Solid
+Filename: 6ae9042757ab49a285f9a931c3ce97ac.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6aeed41150094dceb8d873d42ed4793d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6af1a80e05094518be736743a173db3f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+40, 33, 247, 255, 0.98, Solid
+Filename: 6b27480263844d6aa20862d05caf8ca3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+56, 52, 241, 264, 0.98, Solid
+Filename: 6b2d67ac0c2a4338a3917220a56abbe5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6b332a410e2546e7aa3e0709fb424c3d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+159, 19, 230, 272, 0.99, Solid
+66, 15, 130, 228, 0.97, Solid
+162, 14, 239, 152, 0.71, Solid
+Filename: 6b6856c158e141fdb700a200b026ccd7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6becf9fa87914d47bbd87a414b078b60.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6bf0d70070f24502b108c81e40e487ef.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6bf4b149ff7a4afc9c2091bc2a7443f0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+132, 119, 170, 154, 0.97, Floral
+84, 25, 222, 282, 0.93, Dotted
+Filename: 6c0ffb84764749098c3138c33c98dd7e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6c43488eeaba4a1da752441ded6e70d6.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+25, 52, 264, 255, 1.00, Solid
+Filename: 6c60eec61528415d90e68d63696f16af.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+77, 143, 222, 229, 1.00, Solid
+Filename: 6c62960f650b4014a89e5659abc45b0a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6c7a39399c574584bb5562f1ea866d6f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6cabb607e1b9421f93b7e2594668d6e3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6caf493aae5c4ada91c0f25e7ec3c320.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+165, 45, 231, 272, 0.99, Solid
+103, 55, 190, 90, 0.98, Text
+71, 73, 135, 273, 0.89, Solid
+Filename: 6d3a69a8b59745f784799112ab0aaee8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6d5ffc2ebda243ffa95d4bbbf2c2714c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+37, 73, 267, 234, 1.00, Solid
+151, 82, 282, 235, 0.97, Solid
+Filename: 6dbb168b16ca4d8c85b104ff6a1eba63.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+77, 23, 122, 87, 0.95, Animal
+64, 9, 136, 267, 0.89, Animal
+Filename: 6dc5d76a3cad40b2bb6bb8e9750cf17c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+148, 52, 294, 266, 0.97, Solid
+15, 73, 129, 264, 0.94, Solid
+Filename: 6dd3c9d5a7524904842418b103af62b4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 6dedcc68aa644849b9897b0acca241b3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+160, 18, 217, 268, 0.96, Solid
+80, 18, 145, 269, 0.94, Solid
+Filename: 6e037c63fa6a436bb4f5e8eb9e81cee0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+35, 192, 150, 226, 0.70, Solid
+Filename: 6e93bce25a2644e28508860ced14e132.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+167, 53, 231, 280, 1.00, Solid
+68, 18, 140, 274, 1.00, Solid
+76, 14, 223, 75, 0.81, Solid
+Filename: 6ea8bf83d42940e89dd877853c01ddf9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+41, 31, 249, 268, 0.98, Solid
+Filename: 6ed905f2e3b3499bbd0d0af0b42dc2d9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+152, 178, 225, 222, 0.97, Logo
+Filename: 6f7034c18fc54a2c931f5dcee10c1ab9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+69, 169, 168, 202, 0.76, Animal
+Filename: 6fb31bc08a9c4867ae323cc826dcf530.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+161, 24, 226, 274, 1.00, Solid
+81, 25, 141, 259, 0.99, Solid
+Filename: 6fcdbb84ab79403ab61501eb7fcafc65.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+153, 19, 235, 288, 0.99, Camouflage
+60, 22, 130, 273, 0.97, Camouflage
+Filename: 70e982f7f90349d186727b7522f44355.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 70f85addb53d42b19f688c542debff36.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+32, 42, 263, 219, 1.00, Solid
+Filename: 71ba6674b2d94293a6f90258361b9a69.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 71da670b283245838a4b825d6901a36b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 71f0ac691d844ee1ab8eacdf472df859.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+46, 115, 236, 241, 0.82, Solid
+Filename: 72b46d38880442adaaf83fff41052aab.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+126, 204, 178, 231, 1.00, Logo
+64, 168, 240, 224, 0.99, Solid
+Filename: 73e6d2b7e06849eeab5f23ff3e971c25.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+27, 43, 277, 263, 0.98, Solid
+Filename: 76b444cdc62b490298c073f500399bcf.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+164, 32, 225, 277, 1.00, Solid
+70, 15, 229, 275, 1.00, Solid
+82, 17, 229, 143, 0.98, Solid
+Filename: 76ec63651c4f47f8a08ce270e7c63048.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+49, 68, 236, 191, 0.86, Solid
+64, 66, 223, 186, 0.85, Camouflage
+Filename: 77ed189f0a3e409394c4d022582a5d47.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 7aa719c9822a4e10b2d4eb18575f23cd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 7b184fdf25114143a58ae2e09d18d721.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+59, 23, 143, 279, 0.99, Solid
+Filename: 7b5a5321461c46d2a66056751776efd2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+69, 18, 233, 280, 0.98, Solid
+163, 24, 226, 272, 0.94, Solid
+Filename: 7b74a17b025a411eb406b0c6965853ba.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+63, 55, 235, 263, 0.99, Solid
+180, 56, 270, 167, 0.89, Solid
+Filename: 7b74a7f7f75348718d13fc19c16710d7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+57, 49, 242, 256, 1.00, Solid
+109, 142, 197, 172, 0.87, Text
+Filename: 7b7850217ebe403db3cc73f89d0278da.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+91, 195, 154, 261, 0.99, Paisley
+50, 35, 255, 280, 0.99, Paisley
+Filename: 7b798b3f46cf43789a09d28d4172dbb7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 7b96cd401a9343c1bb66962721964d3f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+79, 110, 193, 140, 1.00, Text
+Filename: 7bb5f8b861e9417f85c225ce65488530.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+119, 171, 178, 209, 1.00, Logo
+Filename: 7bda9a52e4d24485bcb82f279601be92.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+43, 68, 238, 235, 1.00, Animal
+Filename: 7c8fa90417d54bdc84daead0af439b7b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+49, 149, 262, 236, 0.97, Solid
+20, 169, 57, 230, 0.77, Solid
+Filename: 7c9798b84eec4342beb576788f038054.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+32, 55, 255, 247, 1.00, Solid
+Filename: 7d3cafddfbef486f9f5f5ed5022011a2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+165, 200, 241, 280, 1.00, Pocket
+173, 77, 243, 136, 0.97, Pocket
+59, 204, 125, 288, 0.96, Pocket
+58, 86, 119, 137, 0.92, Pocket
+53, 183, 122, 238, 0.90, Pocket
+Filename: 7d7baf98aac44aa78859382028910941.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+74, 37, 235, 280, 1.00, Animal
+156, 52, 226, 114, 0.76, Animal
+Filename: 7e2dc779abcc4163a47fe649a690da64.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+154, 195, 210, 242, 0.89, Paisley
+Filename: 7e77a169ab6d4d14ae71383838f0e2e9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+34, 109, 264, 251, 0.99, Animal
+Filename: 7ecb502037dc49c3a3591a7a89b44c87.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+8, 176, 56, 224, 0.85, Paisley
+Filename: 7f8da31966494b348424769b53441e4f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+61, 77, 118, 136, 0.89, Pocket
+Filename: 7fb1f014de894f6196c39bb4df4b09a9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+28, 91, 269, 226, 0.83, Solid
+Filename: 7fbcf593751b49c1ae47f33e061ecc24.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+53, 159, 246, 240, 0.91, Checkered
+Filename: 8a0cf015193b4d3e95f20b6ec6de1c0b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+33, 195, 164, 233, 0.81, Solid
+Filename: 8abd77534ca34c3b870f6e442073a616.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+53, 24, 223, 152, 1.00, Stripe
+237, 47, 293, 251, 0.92, Stripe
+Filename: 8b0d7017d0744daab20ffec5183e9432.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+40, 52, 258, 225, 1.00, Solid
+18, 90, 77, 224, 0.77, Solid
+Filename: 8b5b418938bc4b148999b26ffe9abe35.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+81, 13, 133, 274, 1.00, Solid
+156, 11, 217, 217, 0.99, Solid
+Filename: 8b61daf444a842daabbf80aaa58ea597.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+157, 0, 228, 283, 1.00, Camouflage
+69, 13, 138, 277, 1.00, Camouflage
+185, 202, 226, 283, 1.00, Camouflage
+174, 113, 225, 162, 0.93, Camouflage
+Filename: 8ba6c4afc9f04de8bc5cd3b3cdac99b8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+64, 25, 247, 279, 0.99, Solid
+Filename: 8bbcb9e76fab4408985f338d61d97f28.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+58, 26, 162, 235, 1.00, Solid
+Filename: 8bdcd7a6f5c14a2b9295a867489d3239.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+16, 29, 288, 278, 0.99, Dotted
+Filename: 8c6390f4b4aa447ea51ac266b2a796ce.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8c91483515b14ce19523120473a2159e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+93, 121, 189, 162, 0.99, Logo
+Filename: 8ce3c33ef63f4ca28ae81377e8b7b988.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8ce45e6ed1e64813bb477af262332cc5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8cf105b115354c5ab371ffb894d6ecc8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8d052475b8604ea189707b21059298e8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8d0cf8cfb5eb47e5b657a0a3b5c34af5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+33, 123, 269, 250, 0.99, Paisley
+154, 164, 203, 208, 0.95, Paisley
+90, 171, 145, 206, 0.95, Paisley
+Filename: 8d0d6ad2d833478999848b79925cf239.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+21, 41, 284, 260, 1.00, Solid
+Filename: 8d106268930843578d3c6d75d79184a7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+163, 17, 225, 276, 0.75, Solid
+75, 10, 133, 284, 0.73, Solid
+Filename: 8db12ad08d0f4a2fbd3d2bc8d5ff9db9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8df9ae5baec14d258d4aa056c95f58bc.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+34, 138, 194, 223, 0.99, Solid
+Filename: 8e0546afe5d341b2842c30d2bdd8c6b8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8e1dcb8bb48f4a1cbf99b06862703d1c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+76, 32, 229, 283, 0.83, Stripe
+Filename: 8e492fe7e35b49ac9ab6bc37f8071d67.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8ed5cf0089fe4b64bbd089efc5cec55d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+55, 143, 118, 198, 0.95, Solid
+Filename: 8ee1f56326744c668f21ecb54b5fdd93.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+38, 198, 131, 235, 0.88, Solid
+Filename: 8f6383319f9e49f18c50544f40265458.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8f69cbaa597845d7bb2085f40118c24c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+72, 25, 129, 238, 1.00, Solid
+160, 26, 227, 276, 0.93, Solid
+132, 23, 218, 99, 0.78, Solid
+Filename: 8fb2591741fa4f1d86d4a10cd098401f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8fc72a37aad549159b7ed46d52eb6b08.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 8ffd7f7c580f4c4c9adfe6bb16de6f35.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+23, 89, 273, 228, 0.95, Paisley
+Filename: 8ffeb26121db4a9084b838aa4a345d79.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+100, 79, 229, 112, 0.93, Text
+Filename: 9a20bbcc419549ba8fb72cf37e4e28b8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9a32327b0d2c4a16b14eb13f129a8466.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+48, 88, 263, 255, 0.88, Camouflage
+Filename: 9b56c2bd42c74c149a5f9d71bb8320fe.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+160, 25, 215, 179, 0.98, Solid
+80, 41, 136, 212, 0.98, Solid
+Filename: 9bbc88bf60aa49e79aab334d0c39a8ae.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9be2df7c9c79463e96b4bd595febdd18.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+78, 13, 240, 159, 1.00, Solid
+68, 10, 240, 272, 0.99, Solid
+Filename: 9c178a062911417db0e2bf0bebead8a8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+34, 205, 115, 232, 0.99, Text
+Filename: 9c1b3751ba5e40e6a3848efddc126384.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+54, 43, 257, 277, 1.00, Paisley
+85, 161, 150, 203, 0.96, Paisley
+15, 78, 85, 154, 0.89, Paisley
+97, 200, 154, 236, 0.88, Paisley
+Filename: 9c37f19de0d945eab4cd6eb5447444ab.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9c61ec5d77654e619625ef4106409946.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9c6776214c73438ca2915a9ab9ef90e3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+26, 62, 273, 250, 1.00, Solid
+194, 102, 231, 112, 0.80, Text
+Filename: 9c6b05141bb343c5b86beaaf0f80674e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9ca9598262154bfdac49e2816f1dbcc0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9ce8e110ecde4779b4a360b1e49c75e0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+234, 76, 284, 234, 0.94, Solid
+46, 54, 252, 231, 0.73, Solid
+Filename: 9cfab9a1b2564d66bf3d038b8ad0af3f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9d654ecc562b4bce9200ddcc32277814.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+33, 164, 242, 236, 0.86, Solid
+Filename: 9d759b88dad1479f87e66d0398a57efc.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+73, 20, 131, 263, 0.92, Solid
+82, 14, 229, 101, 0.74, Solid
+Filename: 9d81f3d08145433499b782b7858824f4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+69, 12, 135, 259, 0.99, Solid
+Filename: 9da0f194b87948e488f02c30f4312849.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+55, 164, 239, 228, 0.73, Solid
+Filename: 9dd2b3be1f834333961c36fb6b2429c8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+21, 87, 68, 171, 0.95, Stripe
+67, 46, 232, 180, 0.95, Stripe
+30, 34, 96, 94, 0.80, Stripe
+Filename: 9de686a37b2a4e2d9d86410847aeac99.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+56, 26, 146, 295, 1.00, Camouflage
+154, 26, 250, 295, 1.00, Camouflage
+63, 15, 242, 282, 0.92, Camouflage
+162, 136, 235, 208, 0.83, Camouflage
+Filename: 9e13e2548dbe4d0680027e59148fd26c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+29, 120, 137, 228, 0.81, Paisley
+Filename: 9e275cd00ca74d2b873be358625bbcb7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+40, 30, 144, 293, 0.98, Solid
+Filename: 9e34736c583e4b8ca4966b8a7ae27881.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+163, 145, 249, 220, 0.99, Solid
+Filename: 9ec7cfa895ed4fde93293faae97d769c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+64, 139, 233, 246, 1.00, Solid
+Filename: 9ef2fbe92f6e46a0930ed2be517568cd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+84, 17, 135, 239, 1.00, Solid
+155, 17, 210, 231, 0.97, Solid
+Filename: 9f099828496d484b8a4fd932a1dcbd83.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9f23a262c3b940afbec31e0207e3c241.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+34, 34, 252, 252, 1.00, Solid
+230, 44, 288, 265, 0.96, Solid
+Filename: 9f453c1b66ff40f7a7a2947423a5d691.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+106, 23, 181, 222, 1.00, Solid
+Filename: 9f7513ba7d40464e88076ce819a26dff.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9f7c04ec590d407b9af02a3e74effdd0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9f884a5b258a41c09a05069a15a1c0eb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+52, 118, 238, 236, 1.00, Solid
+Filename: 9f9c27d5db984e7192fb6561f61f2d35.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+178, 99, 233, 155, 0.93, Pocket
+Filename: 9fad6372e3ca45d1a53bec9e4a6e59a7.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9fbbd5d8be3145d8959ac57be03f80ba.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+131, 40, 290, 267, 0.80, Solid
+Filename: 9fc91b0e0a884697af4f9dff9255e5d5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+25, 226, 136, 269, 0.77, Solid
+Filename: 9feff193ba22474ab307a107c1a3120d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+Filename: 9ff7923b39ac4e70a81e58a4050ca9ab.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+18, 73, 66, 257, 0.99, Animal
+111, 110, 195, 194, 0.97, Logo
+117, 115, 190, 206, 0.71, Printed

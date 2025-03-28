@@ -1,0 +1,1176 @@
+== SSD Detection Results ==
+
+Filename: 00125ceadcfc453eaed0d00fa94e338e.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 10 boxes
+ - Avg score (< 0.7): 0.0672
+
+========================================
+
+Filename: 064b8223c67c46d49fe8fad946feb077.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (< 0.7): 0.0142
+
+========================================
+
+Filename: 06b28001a70e4f7db1d481dd63bb7c2d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 2 boxes
+ - Avg score (< 0.7): 0.2826
+
+========================================
+
+Filename: 06e287cf9486479396b5d448cbe51c06.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (< 0.7): 0.0033
+
+========================================
+
+Filename: 0a5f571533544dd589ef604b1d2aaf77.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 5 boxes
+ - Avg score (< 0.7): 0.0557
+
+========================================
+
+Filename: 0bbf6f0bb555476a8b7a777f3fb638b3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+80, 70, 200, 113, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (>= 0.7): 0.9991
+ - Avg score (< 0.7): 0.0077
+
+========================================
+
+Filename: 0e668e826f7f455688a6f885b7b31dbb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (< 0.7): 0.0801
+
+========================================
+
+Filename: 12ec6b3b19b74a9cbb63c61638d72813.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 1 boxes
+ - Avg score (< 0.7): 0.1651
+
+========================================
+
+Filename: 16f24a92cecb47b68cab889c29f65def.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+101, 99, 212, 127, 1.00, Text
+105, 113, 211, 139, 0.72, Text
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 11 boxes
+ - Avg score (>= 0.7): 0.8595
+ - Avg score (< 0.7): 0.0041
+
+========================================
+
+Filename: 1746e7857b92405199d32ce27e871284.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 6 boxes
+ - Avg score (< 0.7): 0.0109
+
+========================================
+
+Filename: 196798131747456f9b3feb5b61595ec0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+87, 95, 204, 128, 0.86, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (>= 0.7): 0.8559
+ - Avg score (< 0.7): 0.0906
+
+========================================
+
+Filename: 1c4fba6cd53c4eca9569fdaac0ffb65a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+96, 58, 195, 111, 0.74, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (>= 0.7): 0.7448
+ - Avg score (< 0.7): 0.0419
+
+========================================
+
+Filename: 1c5d46dcfbda482897816ae0c0125505.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+90, 88, 211, 134, 0.91, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (>= 0.7): 0.9063
+ - Avg score (< 0.7): 0.0323
+
+========================================
+
+Filename: 1e92ab386de84775b602e26422e68969.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+93, 82, 198, 97, 0.99, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 2 boxes
+ - Avg score (>= 0.7): 0.9865
+ - Avg score (< 0.7): 0.0596
+
+========================================
+
+Filename: 24370e1a31514d03820ec4af2c50e8da.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+108, 68, 199, 91, 0.71, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 5 boxes
+ - Avg score (>= 0.7): 0.7144
+ - Avg score (< 0.7): 0.0146
+
+========================================
+
+Filename: 24a7ee5868bf431bb0d717008ee08a95.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 9 boxes
+ - Avg score (< 0.7): 0.0444
+
+========================================
+
+Filename: 2566c58cbfc746b29e8f7c95c85364a8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (< 0.7): 0.0672
+
+========================================
+
+Filename: 2c29ccf0e9e941ed8a9cec185d4f9f0b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+80, 203, 230, 233, 0.78, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 2 boxes
+ - Avg score (>= 0.7): 0.7756
+ - Avg score (< 0.7): 0.0013
+
+========================================
+
+Filename: 2e1248c249a64e4fafde1e8b4b43806b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+68, 80, 200, 111, 0.94, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (>= 0.7): 0.9390
+ - Avg score (< 0.7): 0.0214
+
+========================================
+
+Filename: 37b240ebe603421c9673683a07c1d6af.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 10 boxes
+ - Avg score (< 0.7): 0.0729
+
+========================================
+
+Filename: 3e26206bf66f441bbd4698d391d0f3e6.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (< 0.7): 0.0127
+
+========================================
+
+Filename: 3e46167f908d44939e12a52fe52f546c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 11 boxes
+ - Avg score (< 0.7): 0.0135
+
+========================================
+
+Filename: 3fae8b654927406fac7c01876691594b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (< 0.7): 0.0035
+
+========================================
+
+Filename: 45335726ac4b4a6ea995d967c5f28352.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+98, 65, 223, 103, 0.74, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (>= 0.7): 0.7396
+ - Avg score (< 0.7): 0.0391
+
+========================================
+
+Filename: 4763cd51c0dd4d8b8b76ce882b2dd99f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 15 boxes
+ - Avg score (< 0.7): 0.0168
+
+========================================
+
+Filename: 48196c103e0441bd8d408508829efcdc.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 9 boxes
+ - Avg score (< 0.7): 0.0260
+
+========================================
+
+Filename: 4aa125c19ecc4b78ab28af8f95a71974.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 8 boxes
+ - Avg score (< 0.7): 0.0165
+
+========================================
+
+Filename: 4b37883f7c864c2c96129c2198c96fc5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+84, 82, 215, 116, 1.00, Text
+109, 168, 192, 185, 0.89, Text
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 8 boxes
+ - Avg score (>= 0.7): 0.9425
+ - Avg score (< 0.7): 0.0217
+
+========================================
+
+Filename: 4c745b915e0842deab0a149b6358ef6b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+36, 231, 207, 268, 0.99, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 14 boxes
+ - Avg score (>= 0.7): 0.9869
+ - Avg score (< 0.7): 0.0038
+
+========================================
+
+Filename: 4df4a9184ace4e98a6c96edbc6d09e9c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 17 boxes
+ - Avg score (< 0.7): 0.0129
+
+========================================
+
+Filename: 5039405d8ca44b25844d76e51cdaa329.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (< 0.7): 0.0704
+
+========================================
+
+Filename: 505fca68ed1a4b8f969571a7e47b4647.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+101, 103, 193, 132, 0.96, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 5 boxes
+ - Avg score (>= 0.7): 0.9645
+ - Avg score (< 0.7): 0.0070
+
+========================================
+
+Filename: 516ddab73cb74bd3a758d3c7fc04a237.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 1 boxes
+ - Avg score (< 0.7): 0.0257
+
+========================================
+
+Filename: 51c9c9bfe76a4620bde4b728e951ad5d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+119, 110, 186, 151, 0.86, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (>= 0.7): 0.8588
+ - Avg score (< 0.7): 0.1026
+
+========================================
+
+Filename: 561cecee0c7e48b3b903229c888640d2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (< 0.7): 0.0262
+
+========================================
+
+Filename: 5c5ad52f95ed40bebac2ebdecb2a3407.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+103, 173, 191, 203, 0.98, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (>= 0.7): 0.9820
+ - Avg score (< 0.7): 0.0212
+
+========================================
+
+Filename: 5e6a189d131c4ced9fd1799014d2ccd5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+93, 155, 215, 189, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 10 boxes
+ - Avg score (>= 0.7): 0.9991
+ - Avg score (< 0.7): 0.0286
+
+========================================
+
+Filename: 6026de4356964f88a410fd4f1dd36844.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+100, 74, 195, 99, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (>= 0.7): 0.9978
+ - Avg score (< 0.7): 0.0124
+
+========================================
+
+Filename: 631191359982446a807fc3f64b7d904d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+74, 80, 218, 112, 0.92, Text
+60, 72, 252, 123, 0.88, Text
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 0 boxes
+ - Avg score (>= 0.7): 0.9035
+
+========================================
+
+Filename: 637c8ac222cc48c9ab2cd031b49ecd2b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+93, 64, 222, 96, 0.97, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 2 boxes
+ - Avg score (>= 0.7): 0.9739
+ - Avg score (< 0.7): 0.0033
+
+========================================
+
+Filename: 643bbb8535644add9dfb856759e916ec.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (< 0.7): 0.0091
+
+========================================
+
+Filename: 65c27151b75f41fb827de5570198c12b.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+89, 114, 209, 149, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (>= 0.7): 0.9997
+ - Avg score (< 0.7): 0.0061
+
+========================================
+
+Filename: 6b5cd16500644098bd600acf685f2ece.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+131, 260, 171, 275, 0.94, Text
+96, 241, 196, 261, 0.78, Text
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 23 boxes
+ - Avg score (>= 0.7): 0.8610
+ - Avg score (< 0.7): 0.0354
+
+========================================
+
+Filename: 6d343a42f0ce4b46b0f452f496e4fb5a.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 10 boxes
+ - Avg score (< 0.7): 0.0730
+
+========================================
+
+Filename: 6ea5bf60162f435eb1a9bb353f67bd68.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (< 0.7): 0.0048
+
+========================================
+
+Filename: 7350bcc9cd4a4a7990ca07b28f2fd226.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+88, 81, 196, 106, 0.96, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 0 boxes
+ - Avg score (>= 0.7): 0.9557
+
+========================================
+
+Filename: 753297fefbca4493887ca563bd1a5659.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+96, 101, 201, 121, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 6 boxes
+ - Avg score (>= 0.7): 0.9965
+ - Avg score (< 0.7): 0.0079
+
+========================================
+
+Filename: 762735a9b9fc46e0acdce3cc630d42e9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 9 boxes
+ - Avg score (< 0.7): 0.0689
+
+========================================
+
+Filename: 7c786fed4d9344e48ec5729b05a9fe4d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+57, 194, 248, 274, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (>= 0.7): 0.9999
+ - Avg score (< 0.7): 0.0028
+
+========================================
+
+Filename: 7cb64dc843e846ad96c302d1bd25630f.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 2 boxes
+ - Avg score (< 0.7): 0.0062
+
+========================================
+
+Filename: 80a1fb3924dc4143b9c2b0c91ef171f4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+100, 87, 211, 104, 0.94, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 9 boxes
+ - Avg score (>= 0.7): 0.9369
+ - Avg score (< 0.7): 0.0048
+
+========================================
+
+Filename: 80a8c277c50a4f808fa89865204128b5.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (< 0.7): 0.0547
+
+========================================
+
+Filename: 823ebb34c96744068ffa1c50266092d8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+58, 233, 227, 271, 0.72, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 12 boxes
+ - Avg score (>= 0.7): 0.7178
+ - Avg score (< 0.7): 0.0393
+
+========================================
+
+Filename: 8a761586dc8f472593b796224fbb574d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 2 boxes
+ - Avg score (< 0.7): 0.0271
+
+========================================
+
+Filename: 8f4a08615a7e4132b3016cccf4a4429c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 2 boxes
+ - Avg score (< 0.7): 0.0349
+
+========================================
+
+Filename: 9686bcc502bd44e7b54d824fc1106aa9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (< 0.7): 0.0305
+
+========================================
+
+Filename: 96db92468a3d473681828e0b263ae0ef.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 9 boxes
+ - Avg score (< 0.7): 0.0234
+
+========================================
+
+Filename: 9c6057126429414f8c96232776af1c2c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+112, 98, 183, 109, 0.97, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 8 boxes
+ - Avg score (>= 0.7): 0.9688
+ - Avg score (< 0.7): 0.0108
+
+========================================
+
+Filename: 9e7b1315e31e4022a0bce5ed69a6cb61.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+98, 180, 182, 201, 0.99, Text
+82, 133, 208, 182, 0.93, Text
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 2 boxes
+ - Avg score (>= 0.7): 0.9590
+ - Avg score (< 0.7): 0.0193
+
+========================================
+
+Filename: 9ea693ff47db470386a774305bafdd58.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+77, 141, 222, 167, 0.92, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (>= 0.7): 0.9211
+ - Avg score (< 0.7): 0.0031
+
+========================================
+
+Filename: a1d910854be04bb389decbb4d585cda2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 5 boxes
+ - Avg score (< 0.7): 0.0140
+
+========================================
+
+Filename: a2fb4487a68e4958901d57c698424c33.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+134, 211, 192, 280, 0.84, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (>= 0.7): 0.8431
+ - Avg score (< 0.7): 0.0022
+
+========================================
+
+Filename: a3c65a8526234c6399c549c57eb86b6d.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (< 0.7): 0.1160
+
+========================================
+
+Filename: a889c2e291224cb786086ee4802797e2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 8 boxes
+ - Avg score (< 0.7): 0.0322
+
+========================================
+
+Filename: ac6ae406b0594eb2b222e47b0a597724.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 12 boxes
+ - Avg score (< 0.7): 0.0068
+
+========================================
+
+Filename: aca73bfd3e604d1b8dcaa54805d58c56.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+96, 115, 183, 137, 0.97, Text
+93, 85, 207, 109, 0.96, Text
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (>= 0.7): 0.9647
+ - Avg score (< 0.7): 0.0075
+
+========================================
+
+Filename: b01f209eafdf4f0eaa287d32eb1c00b3.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+84, 61, 222, 97, 1.00, Text
+107, 112, 198, 131, 0.82, Text
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (>= 0.7): 0.9075
+ - Avg score (< 0.7): 0.0946
+
+========================================
+
+Filename: b0fa771d213c45b6bcd761098fcd31d4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 8 boxes
+ - Avg score (< 0.7): 0.0552
+
+========================================
+
+Filename: b4783b295def4b069721108c4af47da0.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+97, 66, 229, 101, 0.96, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 1 boxes
+ - Avg score (>= 0.7): 0.9624
+ - Avg score (< 0.7): 0.0018
+
+========================================
+
+Filename: b558e487f0054505959526e3f1aa2240.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+107, 88, 206, 120, 0.99, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 6 boxes
+ - Avg score (>= 0.7): 0.9947
+ - Avg score (< 0.7): 0.0515
+
+========================================
+
+Filename: b7ab16eaaa9c4c3aa04a693bdc633fb8.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+99, 123, 199, 154, 0.99, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 8 boxes
+ - Avg score (>= 0.7): 0.9864
+ - Avg score (< 0.7): 0.0207
+
+========================================
+
+Filename: b97e22be909c4317be1b9bbf6ab0c53c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+85, 83, 220, 107, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 6 boxes
+ - Avg score (>= 0.7): 0.9989
+ - Avg score (< 0.7): 0.0014
+
+========================================
+
+Filename: b9a03ff01ec8447184147fef78517c06.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 11 boxes
+ - Avg score (< 0.7): 0.0206
+
+========================================
+
+Filename: ba747ee403aa43e5a7d06fc0b2fed5a9.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+95, 71, 204, 94, 0.99, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 10 boxes
+ - Avg score (>= 0.7): 0.9941
+ - Avg score (< 0.7): 0.0406
+
+========================================
+
+Filename: bb9440ec28f14319bbfec09ccae6a99c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+98, 82, 213, 117, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (>= 0.7): 0.9984
+ - Avg score (< 0.7): 0.0089
+
+========================================
+
+Filename: bbf6dfb354b3486f8e6785bacb1a9d22.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+102, 115, 208, 135, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 12 boxes
+ - Avg score (>= 0.7): 0.9966
+ - Avg score (< 0.7): 0.0071
+
+========================================
+
+Filename: bd76ccac11b7499abbbcf92c251d40b2.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+76, 76, 215, 143, 0.97, Text
+92, 81, 193, 118, 0.95, Text
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 2 boxes
+ - Avg score (>= 0.7): 0.9625
+ - Avg score (< 0.7): 0.0658
+
+========================================
+
+Filename: bdd5b821b6f4439b9c6708989ebc10bd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+87, 173, 204, 206, 0.77, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 6 boxes
+ - Avg score (>= 0.7): 0.7673
+ - Avg score (< 0.7): 0.0041
+
+========================================
+
+Filename: c3ad282bc9d44210b53d8e299f44c0ff.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+79, 76, 227, 112, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 1 boxes
+ - Avg score (>= 0.7): 0.9984
+ - Avg score (< 0.7): 0.0265
+
+========================================
+
+Filename: c3ce3ad64b214e9193911204ec942c81.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+86, 162, 209, 182, 0.94, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 1 boxes
+ - Avg score (>= 0.7): 0.9388
+ - Avg score (< 0.7): 0.0106
+
+========================================
+
+Filename: c3f910d51c3e44e689cf7b196c02d197.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+103, 70, 211, 103, 0.97, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (>= 0.7): 0.9691
+ - Avg score (< 0.7): 0.2192
+
+========================================
+
+Filename: c5f26502798b4be182e7909bdacb1287.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (< 0.7): 0.1536
+
+========================================
+
+Filename: c6e3c081cde7442aa7e55199721af6af.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+109, 81, 202, 116, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 1 boxes
+ - Avg score (>= 0.7): 1.0000
+ - Avg score (< 0.7): 0.0150
+
+========================================
+
+Filename: c94b024b06e1448580cf996076fc5390.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (< 0.7): 0.0052
+
+========================================
+
+Filename: caeade0b648b480888fb0b338bdbb024.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+100, 70, 212, 101, 0.99, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 6 boxes
+ - Avg score (>= 0.7): 0.9885
+ - Avg score (< 0.7): 0.0040
+
+========================================
+
+Filename: cca227b756c14a3bbd9d565611989902.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+131, 207, 197, 265, 0.94, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (>= 0.7): 0.9413
+ - Avg score (< 0.7): 0.0028
+
+========================================
+
+Filename: cfadbae153dc4f9588d59515fc879df4.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+70, 91, 222, 199, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (>= 0.7): 1.0000
+ - Avg score (< 0.7): 0.0111
+
+========================================
+
+Filename: d8457f40af814527a0ff68253b95a07c.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 16 boxes
+ - Avg score (< 0.7): 0.0310
+
+========================================
+
+Filename: d8f3641c7fe445be9a08b2db7314d894.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+111, 102, 181, 159, 0.83, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 6 boxes
+ - Avg score (>= 0.7): 0.8323
+ - Avg score (< 0.7): 0.0194
+
+========================================
+
+Filename: ddc05418a9014e42bd41da4e92e84b33.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+90, 77, 192, 120, 0.99, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 6 boxes
+ - Avg score (>= 0.7): 0.9940
+ - Avg score (< 0.7): 0.0814
+
+========================================
+
+Filename: de6e27330db34c50a2e2d6705f9b7c15.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 9 boxes
+ - Avg score (< 0.7): 0.0138
+
+========================================
+
+Filename: dee153e0e22b4da6b2b7e4792cba1635.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+112, 41, 187, 69, 0.98, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 5 boxes
+ - Avg score (>= 0.7): 0.9832
+ - Avg score (< 0.7): 0.0461
+
+========================================
+
+Filename: e4d23ba14d5a470ab650ce712d357ced.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+108, 218, 180, 248, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 7 boxes
+ - Avg score (>= 0.7): 0.9992
+ - Avg score (< 0.7): 0.0015
+
+========================================
+
+Filename: e538b14a2fc640ae907d5efc6cc04c08.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 9 boxes
+ - Avg score (< 0.7): 0.0173
+
+========================================
+
+Filename: e62f02ecf8224b748825a8820ef68c20.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+95, 86, 216, 127, 1.00, Text
+133, 134, 177, 145, 0.86, Text
+109, 122, 207, 136, 0.74, Text
+
+Detection Summary:
+ - Score >= 0.7: 3 boxes
+ - Score <  0.7: 9 boxes
+ - Avg score (>= 0.7): 0.8664
+ - Avg score (< 0.7): 0.0670
+
+========================================
+
+Filename: e64a4d8e14164becbe5302321732f7bd.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+70, 84, 203, 111, 0.85, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (>= 0.7): 0.8532
+ - Avg score (< 0.7): 0.0797
+
+========================================
+
+Filename: e7a573ad2ecc43e796fbe5459cb56597.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+No valid detections
+
+Detection Summary:
+ - Score >= 0.7: 0 boxes
+ - Score <  0.7: 4 boxes
+ - Avg score (< 0.7): 0.0892
+
+========================================
+
+Filename: eac349ab83c44010a7eba2f6cdde5c16.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+88, 85, 202, 116, 1.00, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 3 boxes
+ - Avg score (>= 0.7): 0.9961
+ - Avg score (< 0.7): 0.0035
+
+========================================
+
+Filename: ebb6f39dcf6545de88d4a9a084308f41.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+112, 117, 188, 134, 0.89, Text
+112, 134, 190, 145, 0.87, Text
+
+Detection Summary:
+ - Score >= 0.7: 2 boxes
+ - Score <  0.7: 1 boxes
+ - Avg score (>= 0.7): 0.8832
+ - Avg score (< 0.7): 0.0036
+
+========================================
+
+Filename: f09c40d205e7470b95d39350b9f7b7fb.jpg
+Bounding Boxes (x_min, y_min, x_max, y_max), Score, Label
+111, 91, 191, 128, 0.85, Text
+
+Detection Summary:
+ - Score >= 0.7: 1 boxes
+ - Score <  0.7: 1 boxes
+ - Avg score (>= 0.7): 0.8523
+ - Avg score (< 0.7): 0.0016
+
+========================================
+
+
+Final Summary
+========================================
+Total test files          : 100
+Files with score >= 0.7   : 57
+Files with score <  0.7   : 43
+Avg score (>= 0.7) overall: 0.9249
+Avg score (<  0.7) overall: 0.0334

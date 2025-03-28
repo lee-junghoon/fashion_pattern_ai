@@ -1,0 +1,189 @@
+[
+    {
+        "image_id": "00e1879fc53848f2b7c76cdc990375ed.jpg",
+        "category_id": 1,
+        "bbox": [
+            65.0,
+            89.0,
+            169.0,
+            150.0
+        ],
+        "score": 0.9999992847442627
+    },
+    {
+        "image_id": "00e1879fc53848f2b7c76cdc990375ed.jpg",
+        "category_id": 1,
+        "bbox": [
+            116.0,
+            104.0,
+            47.0,
+            131.0
+        ],
+        "score": 0.9999874830245972
+    },
+    {
+        "image_id": "00e1879fc53848f2b7c76cdc990375ed.jpg",
+        "category_id": 1,
+        "bbox": [
+            87.0,
+            136.0,
+            137.0,
+            31.0
+        ],
+        "score": 0.9544386267662048
+    },
+    {
+        "image_id": "0a5f571533544dd589ef604b1d2aaf77.jpg",
+        "category_id": 8,
+        "bbox": [
+            83.0,
+            63.0,
+            127.0,
+            121.0
+        ],
+        "score": 0.9999809265136719
+    },
+    {
+        "image_id": "0aa47cea5af54387be7bf4a71e82d4ab.jpg",
+        "category_id": 2,
+        "bbox": [
+            55.0,
+            48.0,
+            203.0,
+            193.0
+        ],
+        "score": 0.9999986886978149
+    },
+    {
+        "image_id": "0aca53784d9c46e59806207f8eeda59c.jpg",
+        "category_id": 1,
+        "bbox": [
+            76.0,
+            77.0,
+            146.0,
+            99.0
+        ],
+        "score": 0.9999889135360718
+    },
+    {
+        "image_id": "0aca53784d9c46e59806207f8eeda59c.jpg",
+        "category_id": 1,
+        "bbox": [
+            74.0,
+            126.0,
+            47.0,
+            49.0
+        ],
+        "score": 0.8957453966140747
+    },
+    {
+        "image_id": "2d6a6aefaec1418eb45e2abcc99deea5.jpg",
+        "category_id": 3,
+        "bbox": [
+            216.0,
+            94.0,
+            32.0,
+            98.0
+        ],
+        "score": 0.9999943971633911
+    },
+    {
+        "image_id": "2d6a6aefaec1418eb45e2abcc99deea5.jpg",
+        "category_id": 3,
+        "bbox": [
+            83.0,
+            70.0,
+            43.0,
+            51.0
+        ],
+        "score": 0.9924769997596741
+    },
+    {
+        "image_id": "2d6a6aefaec1418eb45e2abcc99deea5.jpg",
+        "category_id": 3,
+        "bbox": [
+            179.0,
+            79.0,
+            56.0,
+            16.0
+        ],
+        "score": 0.8879759311676025
+    },
+    {
+        "image_id": "2d9b4a03286a432b9acfdc61c9e23cb3.jpg",
+        "category_id": 2,
+        "bbox": [
+            70.0,
+            43.0,
+            157.0,
+            150.0
+        ],
+        "score": 0.9999922513961792
+    },
+    {
+        "image_id": "2dcb4c8990ef4bfd8effff2341b9488d.jpg",
+        "category_id": 2,
+        "bbox": [
+            88.0,
+            57.0,
+            127.0,
+            173.0
+        ],
+        "score": 0.999995231628418
+    },
+    {
+        "image_id": "2f28d5b42cc64893849c0959dc6dbdd5.jpg",
+        "category_id": 2,
+        "bbox": [
+            76.0,
+            63.0,
+            143.0,
+            164.0
+        ],
+        "score": 0.9990171194076538
+    },
+    {
+        "image_id": "2f50e8e1d9c742e0b3ab1c7f8462ee78.jpg",
+        "category_id": 2,
+        "bbox": [
+            53.0,
+            128.0,
+            196.0,
+            154.0
+        ],
+        "score": 0.9991233944892883
+    },
+    {
+        "image_id": "2f6addcf01e94026a8766c778122dc14.jpg",
+        "category_id": 3,
+        "bbox": [
+            148.0,
+            159.0,
+            59.0,
+            53.0
+        ],
+        "score": 0.9999794960021973
+    },
+    {
+        "image_id": "2f6addcf01e94026a8766c778122dc14.jpg",
+        "category_id": 3,
+        "bbox": [
+            85.0,
+            86.0,
+            42.0,
+            44.0
+        ],
+        "score": 0.9900299310684204
+    },
+    {
+        "image_id": "2f6addcf01e94026a8766c778122dc14.jpg",
+        "category_id": 3,
+        "bbox": [
+            178.0,
+            46.0,
+            18.0,
+            27.0
+        ],
+        "score": 0.8861560821533203
+    }
+]
